@@ -1,0 +1,686 @@
+[
+	{
+		"kode_pro": "11",
+		"nama_provinsi": "ACEH",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "12",
+		"nama_provinsi": "SUMATERA UTARA",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "13",
+		"nama_provinsi": "SUMATERA BARAT",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "14",
+		"nama_provinsi": "RIAU",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "15",
+		"nama_provinsi": "JAMBI",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "16",
+		"nama_provinsi": "SUMATERA SELATAN",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "17",
+		"nama_provinsi": "BENGKULU",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "18",
+		"nama_provinsi": "LAMPUNG",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "19",
+		"nama_provinsi": "KEPULAUAN BANGKA BELITUNG",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "21",
+		"nama_provinsi": "KEPULAUAN RIAU",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "31",
+		"nama_provinsi": "DKI JAKARTA",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "32",
+		"nama_provinsi": "JAWA BARAT",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "33",
+		"nama_provinsi": "JAWA TENGAH",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "34",
+		"nama_provinsi": "DAERAH ISTIMEWA YOGYAKARTA",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "35",
+		"nama_provinsi": "JAWA TIMUR",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "36",
+		"nama_provinsi": "BANTEN",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "51",
+		"nama_provinsi": "BALI",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "52",
+		"nama_provinsi": "NUSA TENGGARA BARAT",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "53",
+		"nama_provinsi": "NUSA TENGGARA TIMUR",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "61",
+		"nama_provinsi": "KALIMANTAN BARAT",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "62",
+		"nama_provinsi": "KALIMANTAN TENGAH",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "63",
+		"nama_provinsi": "KALIMANTAN SELATAN",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "64",
+		"nama_provinsi": "KALIMANTAN TIMUR",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "65",
+		"nama_provinsi": "KALIMANTAN UTARA",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "71",
+		"nama_provinsi": "SULAWESI UTARA",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "72",
+		"nama_provinsi": "SULAWESI TENGAH",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "73",
+		"nama_provinsi": "SULAWESI SELATAN",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "74",
+		"nama_provinsi": "SULAWESI TENGGARA",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "75",
+		"nama_provinsi": "GORONTALO",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "76",
+		"nama_provinsi": "SULAWESI BARAT",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "81",
+		"nama_provinsi": "MALUKU",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "82",
+		"nama_provinsi": "MALUKU UTARA",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "91",
+		"nama_provinsi": "PAPUA",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "92",
+		"nama_provinsi": "PAPUA BARAT",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "93",
+		"nama_provinsi": "PAPUA SELATAN",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "94",
+		"nama_provinsi": "PAPUA TENGAH",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "95",
+		"nama_provinsi": "PAPUA PEGUNUNGAN",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	},
+	{
+		"kode_pro": "96",
+		"nama_provinsi": "PAPUA BARAT DAYA",
+		"jumlah_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		},
+		"anggaran_revitalisasi": {
+			"paud": "0",
+			"sd": "0",
+			"smp": "0",
+			"sma": "0",
+			"total": "0"
+		}
+	}
+]

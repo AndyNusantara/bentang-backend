@@ -1,0 +1,9768 @@
+[
+  {
+    "kode_pro": "11",
+    "kode_kab": "1101",
+    "nama_kabupaten": "ACEH SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 4,
+      "sma": 4,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17760892,
+      "sd": 113871688,
+      "smp": 67722772,
+      "sma": 62663496,
+      "total": 262018848
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1102",
+    "nama_kabupaten": "ACEH TENGGARA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 3,
+      "sma": 3,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 44614317,
+      "sd": 180444640,
+      "smp": 48907764,
+      "sma": 44456598,
+      "total": 318423319
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1103",
+    "nama_kabupaten": "ACEH TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 4,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14058965,
+      "sd": 162132642,
+      "smp": 70565880,
+      "sma": 49026657,
+      "total": 295784144
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1104",
+    "nama_kabupaten": "ACEH TENGAH",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 3,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 52243602,
+      "sd": 155205990,
+      "smp": 44599173,
+      "sma": 102591702,
+      "total": 354640467
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1105",
+    "nama_kabupaten": "ACEH BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 3,
+      "sma": 6,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14155127,
+      "sd": 98420945,
+      "smp": 51110544,
+      "sma": 98428554,
+      "total": 262115170
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1106",
+    "nama_kabupaten": "ACEH BESAR",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 3,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 46241565,
+      "sd": 132632808,
+      "smp": 48235995,
+      "sma": 34290650,
+      "total": 261401018
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1107",
+    "nama_kabupaten": "PIDIE",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 6,
+      "sma": 6,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16496342,
+      "sd": 105112301,
+      "smp": 105195018,
+      "sma": 87346614,
+      "total": 314150275
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1108",
+    "nama_kabupaten": "ACEH UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 6,
+      "sma": 2,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 46096293,
+      "sd": 137172240,
+      "smp": 95242212,
+      "sma": 30130742,
+      "total": 308641487
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1109",
+    "nama_kabupaten": "SIMEULUE",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 4,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 33630660,
+      "sd": 117925496,
+      "smp": 73908112,
+      "sma": 72423740,
+      "total": 297888008
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1110",
+    "nama_kabupaten": "ACEH SINGKIL",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 6,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32485802,
+      "sd": 96024546,
+      "smp": 93444822,
+      "sma": 52992783,
+      "total": 274947953
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1111",
+    "nama_kabupaten": "BIREUEN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 6,
+      "sma": 3,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16064979,
+      "sd": 138420315,
+      "smp": 94908768,
+      "sma": 42962418,
+      "total": 292356480
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1112",
+    "nama_kabupaten": "ACEH BARAT DAYA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 4,
+      "sma": 2,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 52543986,
+      "sd": 91535754,
+      "smp": 70760676,
+      "sma": 32489030,
+      "total": 247329446
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1113",
+    "nama_kabupaten": "GAYO LUES",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 5,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14831043,
+      "sd": 185009150,
+      "smp": 74254510,
+      "sma": 112053462,
+      "total": 386148165
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1114",
+    "nama_kabupaten": "ACEH JAYA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 5,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14520656,
+      "sd": 186613800,
+      "smp": 77762065,
+      "sma": 93681492,
+      "total": 372578013
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1115",
+    "nama_kabupaten": "NAGAN RAYA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 4,
+      "sma": 5,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 36671504,
+      "sd": 165035250,
+      "smp": 75402120,
+      "sma": 81290780,
+      "total": 358399654
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1116",
+    "nama_kabupaten": "ACEH TAMIANG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 6,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18703184,
+      "sd": 137021408,
+      "smp": 105955512,
+      "sma": 101709630,
+      "total": 363389734
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1117",
+    "nama_kabupaten": "BENER MERIAH",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 6,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17165257,
+      "sd": 111946314,
+      "smp": 88275630,
+      "sma": 61810144,
+      "total": 279197345
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1118",
+    "nama_kabupaten": "PIDIE JAYA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 3,
+      "sma": 6,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 47061549,
+      "sd": 117198408,
+      "smp": 45403620,
+      "sma": 89503254,
+      "total": 299166831
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1171",
+    "nama_kabupaten": "KOTA BANDA ACEH",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 3,
+      "sma": 2,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17049746,
+      "sd": 165033063,
+      "smp": 52321542,
+      "sma": 33309156,
+      "total": 267713507
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1172",
+    "nama_kabupaten": "KOTA SABANG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 4,
+      "sma": 6,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14140530,
+      "sd": 131558987,
+      "smp": 57856580,
+      "sma": 84052338,
+      "total": 287608435
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1173",
+    "nama_kabupaten": "KOTA LHOKSEUMAWE",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 3,
+      "sma": 2,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 54683559,
+      "sd": 95702862,
+      "smp": 46839888,
+      "sma": 33660226,
+      "total": 230886535
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1174",
+    "nama_kabupaten": "KOTA LANGSA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 5,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 56829000,
+      "sd": 98378056,
+      "smp": 70689145,
+      "sma": 80678510,
+      "total": 306574711
+    }
+  },
+  {
+    "kode_pro": "11",
+    "kode_kab": "1175",
+    "nama_kabupaten": "KOTA SUBULUSSALAM",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 3,
+      "sma": 6,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 37528058,
+      "sd": 102073328,
+      "smp": 50439186,
+      "sma": 90800694,
+      "total": 280841266
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1201",
+    "nama_kabupaten": "TAPANULI TENGAH",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 6,
+      "sma": 3,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32261200,
+      "sd": 158093990,
+      "smp": 101029596,
+      "sma": 46689966,
+      "total": 338074752
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1202",
+    "nama_kabupaten": "TAPANULI UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 4,
+      "sma": 6,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18190342,
+      "sd": 106144423,
+      "smp": 61375088,
+      "sma": 100353090,
+      "total": 286062943
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1203",
+    "nama_kabupaten": "TAPANULI SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 4,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15723693,
+      "sd": 146380059,
+      "smp": 72442664,
+      "sma": 34813752,
+      "total": 269360168
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1204",
+    "nama_kabupaten": "NIAS",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 3,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31931042,
+      "sd": 131691438,
+      "smp": 50309994,
+      "sma": 56717826,
+      "total": 270650300
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1205",
+    "nama_kabupaten": "LANGKAT",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 3,
+      "sma": 3,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 51378216,
+      "sd": 108850320,
+      "smp": 54149811,
+      "sma": 45440691,
+      "total": 259819038
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1206",
+    "nama_kabupaten": "KARO",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 3,
+      "sma": 2,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 33272416,
+      "sd": 103528572,
+      "smp": 55724901,
+      "sma": 33487358,
+      "total": 226013247
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1207",
+    "nama_kabupaten": "DELI SERDANG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 4,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 49177311,
+      "sd": 116763444,
+      "smp": 74273696,
+      "sma": 81292985,
+      "total": 321507436
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1208",
+    "nama_kabupaten": "SIMALUNGUN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 4,
+      "sma": 6,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14447036,
+      "sd": 98149938,
+      "smp": 56814404,
+      "sma": 107225712,
+      "total": 276637090
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1209",
+    "nama_kabupaten": "ASAHAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 6,
+      "sma": 2,
+      "total": 19
+    },
+    "anggaran_revitalisasi": {
+      "paud": 44507601,
+      "sd": 153636000,
+      "smp": 97891350,
+      "sma": 31144460,
+      "total": 327179411
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1210",
+    "nama_kabupaten": "LABUHANBATU",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 3,
+      "sma": 5,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31269310,
+      "sd": 149551616,
+      "smp": 50346075,
+      "sma": 88803530,
+      "total": 319970531
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1211",
+    "nama_kabupaten": "DAIRI",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 5,
+      "sma": 3,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 47183910,
+      "sd": 143300385,
+      "smp": 70893230,
+      "sma": 44505807,
+      "total": 305883332
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1212",
+    "nama_kabupaten": "TOBA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 5,
+      "sma": 5,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 37327828,
+      "sd": 112102902,
+      "smp": 80986540,
+      "sma": 88635145,
+      "total": 319052415
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1213",
+    "nama_kabupaten": "MANDAILING NATAL",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 3,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 35771652,
+      "sd": 136406052,
+      "smp": 55869498,
+      "sma": 36632134,
+      "total": 264679336
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1214",
+    "nama_kabupaten": "NIAS SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 4,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 33648706,
+      "sd": 150785811,
+      "smp": 75835304,
+      "sma": 55032102,
+      "total": 315301923
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1215",
+    "nama_kabupaten": "PAKPAK BHARAT",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 5,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16902901,
+      "sd": 139778676,
+      "smp": 87447405,
+      "sma": 54578385,
+      "total": 298707367
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1216",
+    "nama_kabupaten": "HUMBANG HASUNDUTAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 6,
+      "sma": 2,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 52600734,
+      "sd": 163392291,
+      "smp": 95253642,
+      "sma": 35937918,
+      "total": 347184585
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1217",
+    "nama_kabupaten": "SAMOSIR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 4,
+      "sma": 2,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14035989,
+      "sd": 105734384,
+      "smp": 56017552,
+      "sma": 29669194,
+      "total": 205457119
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1218",
+    "nama_kabupaten": "SERDANG BEDAGAI",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 6,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16864884,
+      "sd": 125930189,
+      "smp": 107215974,
+      "sma": 30966222,
+      "total": 280977269
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1219",
+    "nama_kabupaten": "BATU BARA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 5,
+      "sma": 3,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 47238372,
+      "sd": 181829510,
+      "smp": 79377885,
+      "sma": 56815149,
+      "total": 365260916
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1220",
+    "nama_kabupaten": "PADANG LAWAS UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 5,
+      "sma": 3,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14157575,
+      "sd": 91981152,
+      "smp": 81281980,
+      "sma": 42859578,
+      "total": 230280285
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1221",
+    "nama_kabupaten": "PADANG LAWAS",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 6,
+      "sma": 5,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34239930,
+      "sd": 154461800,
+      "smp": 93413976,
+      "sma": 93680335,
+      "total": 375796041
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1222",
+    "nama_kabupaten": "LABUHANBATU SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 3,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 36310010,
+      "sd": 137169126,
+      "smp": 45491064,
+      "sma": 73454565,
+      "total": 292424765
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1223",
+    "nama_kabupaten": "LABUHANBATU UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 3,
+      "sma": 5,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32100144,
+      "sd": 151256520,
+      "smp": 44028663,
+      "sma": 81658460,
+      "total": 309043787
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1224",
+    "nama_kabupaten": "NIAS UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 6,
+      "sma": 5,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 37150386,
+      "sd": 148612743,
+      "smp": 95826636,
+      "sma": 77274445,
+      "total": 358864210
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1225",
+    "nama_kabupaten": "NIAS BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 3,
+      "sma": 6,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28753018,
+      "sd": 90704262,
+      "smp": 42352314,
+      "sma": 112174830,
+      "total": 273984424
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1271",
+    "nama_kabupaten": "KOTA MEDAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 4,
+      "sma": 6,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 42082938,
+      "sd": 117873112,
+      "smp": 67469952,
+      "sma": 102459648,
+      "total": 329885650
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1272",
+    "nama_kabupaten": "KOTA PEMATANGSIANTAR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 5,
+      "sma": 2,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15835860,
+      "sd": 146506940,
+      "smp": 79130885,
+      "sma": 32792092,
+      "total": 274265777
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1273",
+    "nama_kabupaten": "KOTA SIBOLGA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 5,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 30065346,
+      "sd": 105560388,
+      "smp": 90398170,
+      "sma": 73589876,
+      "total": 299613780
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1274",
+    "nama_kabupaten": "KOTA TANJUNG BALAI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 6,
+      "sma": 6,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 37501840,
+      "sd": 158878629,
+      "smp": 95555928,
+      "sma": 94670322,
+      "total": 386606719
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1275",
+    "nama_kabupaten": "KOTA BINJAI",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 5,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16156785,
+      "sd": 153991548,
+      "smp": 80938675,
+      "sma": 88320225,
+      "total": 339407233
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1276",
+    "nama_kabupaten": "KOTA TEBING TINGGI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 3,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28153096,
+      "sd": 134078560,
+      "smp": 51499905,
+      "sma": 75426236,
+      "total": 289157797
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1277",
+    "nama_kabupaten": "KOTA PADANG SIDEMPUAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 5,
+      "sma": 4,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 30578498,
+      "sd": 130008384,
+      "smp": 74550085,
+      "sma": 72902076,
+      "total": 308039043
+    }
+  },
+  {
+    "kode_pro": "12",
+    "kode_kab": "1278",
+    "nama_kabupaten": "KOTA GUNUNGSITOLI",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 5,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 49128417,
+      "sd": 107878500,
+      "smp": 73765630,
+      "sma": 65374772,
+      "total": 296147319
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1301",
+    "nama_kabupaten": "PESISIR SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 4,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29048190,
+      "sd": 136304298,
+      "smp": 71542664,
+      "sma": 100433172,
+      "total": 337328324
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1302",
+    "nama_kabupaten": "SOLOK",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 4,
+      "sma": 4,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17022488,
+      "sd": 99188145,
+      "smp": 66020600,
+      "sma": 63628232,
+      "total": 245859465
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1303",
+    "nama_kabupaten": "SIJUNJUNG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 5,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 36029860,
+      "sd": 130375872,
+      "smp": 74297150,
+      "sma": 56762580,
+      "total": 297465462
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1304",
+    "nama_kabupaten": "TANAH DATAR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 4,
+      "sma": 6,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17367497,
+      "sd": 107893536,
+      "smp": 65700308,
+      "sma": 96342750,
+      "total": 287304091
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1305",
+    "nama_kabupaten": "PADANG PARIAMAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 6,
+      "sma": 5,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28120876,
+      "sd": 148542255,
+      "smp": 94692888,
+      "sma": 84710355,
+      "total": 356066374
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1306",
+    "nama_kabupaten": "AGAM",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 5,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16208073,
+      "sd": 140747456,
+      "smp": 76946585,
+      "sma": 86067075,
+      "total": 319969189
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1307",
+    "nama_kabupaten": "LIMA PULUH KOTA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 5,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 35388858,
+      "sd": 150550209,
+      "smp": 77538150,
+      "sma": 92418384,
+      "total": 355895601
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1308",
+    "nama_kabupaten": "PASAMAN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 5,
+      "sma": 3,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14431177,
+      "sd": 115543316,
+      "smp": 86719415,
+      "sma": 44229873,
+      "total": 260923781
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1309",
+    "nama_kabupaten": "KEPULAUAN MENTAWAI",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 6,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 52888056,
+      "sd": 90126372,
+      "smp": 93535470,
+      "sma": 89817020,
+      "total": 326366918
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1310",
+    "nama_kabupaten": "DHARMASRAYA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 6,
+      "sma": 6,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14522603,
+      "sd": 140185000,
+      "smp": 95823534,
+      "sma": 103972512,
+      "total": 354503649
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1311",
+    "nama_kabupaten": "SOLOK SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 6,
+      "sma": 5,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34170068,
+      "sd": 125705816,
+      "smp": 102161268,
+      "sma": 91763675,
+      "total": 353800827
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1312",
+    "nama_kabupaten": "PASAMAN BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 3,
+      "sma": 2,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 45948753,
+      "sd": 147794481,
+      "smp": 56141790,
+      "sma": 33528592,
+      "total": 283413616
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1371",
+    "nama_kabupaten": "KOTA PADANG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 4,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 48160971,
+      "sd": 113732072,
+      "smp": 72399648,
+      "sma": 99823452,
+      "total": 334116143
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1372",
+    "nama_kabupaten": "KOTA SOLOK",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 6,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15756968,
+      "sd": 163981809,
+      "smp": 103956918,
+      "sma": 109353708,
+      "total": 393049403
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1373",
+    "nama_kabupaten": "KOTA SAWAHLUNTO",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 4,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 55110921,
+      "sd": 148343416,
+      "smp": 65179212,
+      "sma": 81660870,
+      "total": 350294419
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1374",
+    "nama_kabupaten": "KOTA PADANG PANJANG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 5,
+      "sma": 2,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 49709700,
+      "sd": 185532270,
+      "smp": 94411470,
+      "sma": 32743378,
+      "total": 362396818
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1375",
+    "nama_kabupaten": "KOTA BUKITTINGGI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 3,
+      "sma": 4,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31326474,
+      "sd": 107249254,
+      "smp": 44365731,
+      "sma": 64588516,
+      "total": 247529975
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1376",
+    "nama_kabupaten": "KOTA PAYAKUMBUH",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 4,
+      "sma": 5,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 33978128,
+      "sd": 185004070,
+      "smp": 62432592,
+      "sma": 77351655,
+      "total": 358766445
+    }
+  },
+  {
+    "kode_pro": "13",
+    "kode_kab": "1377",
+    "nama_kabupaten": "KOTA PARIAMAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 5,
+      "sma": 4,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 30196570,
+      "sd": 159859870,
+      "smp": 79658130,
+      "sma": 66796680,
+      "total": 336511250
+    }
+  },
+  {
+    "kode_pro": "14",
+    "kode_kab": "1401",
+    "nama_kabupaten": "KAMPAR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 6,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16997677,
+      "sd": 116909264,
+      "smp": 94069626,
+      "sma": 90463914,
+      "total": 318440481
+    }
+  },
+  {
+    "kode_pro": "14",
+    "kode_kab": "1402",
+    "nama_kabupaten": "INDRAGIRI HULU",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 6,
+      "sma": 2,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14303481,
+      "sd": 102544464,
+      "smp": 100305420,
+      "sma": 32046430,
+      "total": 249199795
+    }
+  },
+  {
+    "kode_pro": "14",
+    "kode_kab": "1403",
+    "nama_kabupaten": "BENGKALIS",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 6,
+      "sma": 4,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34375328,
+      "sd": 140889000,
+      "smp": 101627124,
+      "sma": 61505156,
+      "total": 338396608
+    }
+  },
+  {
+    "kode_pro": "14",
+    "kode_kab": "1404",
+    "nama_kabupaten": "INDRAGIRI HILIR",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 4,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28341558,
+      "sd": 110489918,
+      "smp": 56364044,
+      "sma": 69332404,
+      "total": 264527924
+    }
+  },
+  {
+    "kode_pro": "14",
+    "kode_kab": "1405",
+    "nama_kabupaten": "PELALAWAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 5,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 49203885,
+      "sd": 86075988,
+      "smp": 87212515,
+      "sma": 86429805,
+      "total": 308922193
+    }
+  },
+  {
+    "kode_pro": "14",
+    "kode_kab": "1406",
+    "nama_kabupaten": "ROKAN HULU",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 6,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 35865784,
+      "sd": 104092686,
+      "smp": 107840154,
+      "sma": 63919392,
+      "total": 311718016
+    }
+  },
+  {
+    "kode_pro": "14",
+    "kode_kab": "1407",
+    "nama_kabupaten": "ROKAN HILIR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 3,
+      "sma": 5,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18481858,
+      "sd": 113746664,
+      "smp": 49738197,
+      "sma": 88441615,
+      "total": 270408334
+    }
+  },
+  {
+    "kode_pro": "14",
+    "kode_kab": "1408",
+    "nama_kabupaten": "SIAK",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 6,
+      "sma": 2,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 44465292,
+      "sd": 117451816,
+      "smp": 90050238,
+      "sma": 37638282,
+      "total": 289605628
+    }
+  },
+  {
+    "kode_pro": "14",
+    "kode_kab": "1409",
+    "nama_kabupaten": "KUANTAN SINGINGI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 4,
+      "sma": 4,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 37814922,
+      "sd": 140989610,
+      "smp": 64523652,
+      "sma": 62795436,
+      "total": 306123620
+    }
+  },
+  {
+    "kode_pro": "14",
+    "kode_kab": "1410",
+    "nama_kabupaten": "KEPULAUAN MERANTI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 4,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 37733320,
+      "sd": 151411960,
+      "smp": 61665272,
+      "sma": 63197780,
+      "total": 314008332
+    }
+  },
+  {
+    "kode_pro": "14",
+    "kode_kab": "1471",
+    "nama_kabupaten": "KOTA PEKANBARU",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 6,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 30977208,
+      "sd": 110221632,
+      "smp": 91711758,
+      "sma": 46874628,
+      "total": 279785226
+    }
+  },
+  {
+    "kode_pro": "14",
+    "kode_kab": "1472",
+    "nama_kabupaten": "KOTA DUMAI",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 5,
+      "sma": 3,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14749212,
+      "sd": 102373986,
+      "smp": 93867660,
+      "sma": 42136326,
+      "total": 253127184
+    }
+  },
+  {
+    "kode_pro": "15",
+    "kode_kab": "1501",
+    "nama_kabupaten": "KERINCI",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 5,
+      "sma": 5,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14955351,
+      "sd": 187701590,
+      "smp": 89714135,
+      "sma": 72520090,
+      "total": 364891166
+    }
+  },
+  {
+    "kode_pro": "15",
+    "kode_kab": "1502",
+    "nama_kabupaten": "MERANGIN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 4,
+      "sma": 4,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16737489,
+      "sd": 142214720,
+      "smp": 57336368,
+      "sma": 62865260,
+      "total": 279153837
+    }
+  },
+  {
+    "kode_pro": "15",
+    "kode_kab": "1503",
+    "nama_kabupaten": "SAROLANGUN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 5,
+      "sma": 4,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14351867,
+      "sd": 129226176,
+      "smp": 73273440,
+      "sma": 66289660,
+      "total": 283141143
+    }
+  },
+  {
+    "kode_pro": "15",
+    "kode_kab": "1504",
+    "nama_kabupaten": "BATANGHARI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 6,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 33803864,
+      "sd": 118028407,
+      "smp": 97253568,
+      "sma": 54609237,
+      "total": 303695076
+    }
+  },
+  {
+    "kode_pro": "15",
+    "kode_kab": "1505",
+    "nama_kabupaten": "MUARO JAMBI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 6,
+      "sma": 2,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 33070422,
+      "sd": 158125950,
+      "smp": 92537346,
+      "sma": 28934710,
+      "total": 312668428
+    }
+  },
+  {
+    "kode_pro": "15",
+    "kode_kab": "1506",
+    "nama_kabupaten": "TANJUNG JABUNG BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 6,
+      "sma": 2,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15479891,
+      "sd": 106632576,
+      "smp": 95107704,
+      "sma": 32549492,
+      "total": 249769663
+    }
+  },
+  {
+    "kode_pro": "15",
+    "kode_kab": "1507",
+    "nama_kabupaten": "TANJUNG JABUNG TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 4,
+      "sma": 6,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 44890572,
+      "sd": 114310364,
+      "smp": 59391224,
+      "sma": 113157618,
+      "total": 331749778
+    }
+  },
+  {
+    "kode_pro": "15",
+    "kode_kab": "1508",
+    "nama_kabupaten": "BUNGO",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 6,
+      "sma": 4,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 33756300,
+      "sd": 126696220,
+      "smp": 107767482,
+      "sma": 66756160,
+      "total": 334976162
+    }
+  },
+  {
+    "kode_pro": "15",
+    "kode_kab": "1509",
+    "nama_kabupaten": "TEBO",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 6,
+      "sma": 3,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28031516,
+      "sd": 129873564,
+      "smp": 102587196,
+      "sma": 45564369,
+      "total": 306056645
+    }
+  },
+  {
+    "kode_pro": "15",
+    "kode_kab": "1571",
+    "nama_kabupaten": "KOTA JAMBI",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 6,
+      "sma": 4,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 54268587,
+      "sd": 149762781,
+      "smp": 99590826,
+      "sma": 69423496,
+      "total": 373045690
+    }
+  },
+  {
+    "kode_pro": "15",
+    "kode_kab": "1572",
+    "nama_kabupaten": "KOTA SUNGAI PENUH",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 5,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15491201,
+      "sd": 139593840,
+      "smp": 90500895,
+      "sma": 36049280,
+      "total": 281635216
+    }
+  },
+  {
+    "kode_pro": "16",
+    "kode_kab": "1601",
+    "nama_kabupaten": "OGAN KOMERING ULU",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 6,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14246259,
+      "sd": 98558775,
+      "smp": 103261350,
+      "sma": 60115276,
+      "total": 276181660
+    }
+  },
+  {
+    "kode_pro": "16",
+    "kode_kab": "1602",
+    "nama_kabupaten": "OGAN KOMERING ILIR",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 5,
+      "sma": 3,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 54924987,
+      "sd": 116803416,
+      "smp": 76949025,
+      "sma": 46218075,
+      "total": 294895503
+    }
+  },
+  {
+    "kode_pro": "16",
+    "kode_kab": "1603",
+    "nama_kabupaten": "MUARA ENIM",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 5,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32968472,
+      "sd": 110373242,
+      "smp": 83903115,
+      "sma": 58148212,
+      "total": 285393041
+    }
+  },
+  {
+    "kode_pro": "16",
+    "kode_kab": "1604",
+    "nama_kabupaten": "LAHAT",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 6,
+      "sma": 2,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 55083870,
+      "sd": 138569076,
+      "smp": 110091312,
+      "sma": 35575912,
+      "total": 339320170
+    }
+  },
+  {
+    "kode_pro": "16",
+    "kode_kab": "1605",
+    "nama_kabupaten": "MUSI RAWAS",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 5,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18345948,
+      "sd": 118369472,
+      "smp": 91767015,
+      "sma": 31704360,
+      "total": 260186795
+    }
+  },
+  {
+    "kode_pro": "16",
+    "kode_kab": "1606",
+    "nama_kabupaten": "MUSI BANYUASIN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 4,
+      "sma": 4,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 48335802,
+      "sd": 115026040,
+      "smp": 62518912,
+      "sma": 63748064,
+      "total": 289628818
+    }
+  },
+  {
+    "kode_pro": "16",
+    "kode_kab": "1607",
+    "nama_kabupaten": "BANYUASIN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 5,
+      "sma": 2,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 35338496,
+      "sd": 154939824,
+      "smp": 91499195,
+      "sma": 36522658,
+      "total": 318300173
+    }
+  },
+  {
+    "kode_pro": "16",
+    "kode_kab": "1608",
+    "nama_kabupaten": "OGAN KOMERING ULU TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 4,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 35174662,
+      "sd": 157522113,
+      "smp": 56310096,
+      "sma": 78247900,
+      "total": 327254771
+    }
+  },
+  {
+    "kode_pro": "16",
+    "kode_kab": "1609",
+    "nama_kabupaten": "OGAN KOMERING ULU SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 6,
+      "sma": 5,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32327630,
+      "sd": 149369913,
+      "smp": 113089494,
+      "sma": 82277990,
+      "total": 377065027
+    }
+  },
+  {
+    "kode_pro": "16",
+    "kode_kab": "1610",
+    "nama_kabupaten": "OGAN ILIR",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 4,
+      "sma": 6,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 53144667,
+      "sd": 161216130,
+      "smp": 62028844,
+      "sma": 94431594,
+      "total": 370821235
+    }
+  },
+  {
+    "kode_pro": "16",
+    "kode_kab": "1611",
+    "nama_kabupaten": "EMPAT LAWANG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 5,
+      "sma": 2,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 46140387,
+      "sd": 155259330,
+      "smp": 88853780,
+      "sma": 29139760,
+      "total": 319393257
+    }
+  },
+  {
+    "kode_pro": "16",
+    "kode_kab": "1612",
+    "nama_kabupaten": "PENUKAL ABAB LEMATANG ILIR",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 4,
+      "sma": 5,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32410706,
+      "sd": 108724854,
+      "smp": 56349756,
+      "sma": 89215220,
+      "total": 286700536
+    }
+  },
+  {
+    "kode_pro": "16",
+    "kode_kab": "1613",
+    "nama_kabupaten": "MUSI RAWAS UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 5,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 44571627,
+      "sd": 113094582,
+      "smp": 93630115,
+      "sma": 35355798,
+      "total": 286652122
+    }
+  },
+  {
+    "kode_pro": "16",
+    "kode_kab": "1671",
+    "nama_kabupaten": "KOTA PALEMBANG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 3,
+      "sma": 6,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29690960,
+      "sd": 116117792,
+      "smp": 42817599,
+      "sma": 89761518,
+      "total": 278387869
+    }
+  },
+  {
+    "kode_pro": "16",
+    "kode_kab": "1672",
+    "nama_kabupaten": "KOTA PAGAR ALAM",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 6,
+      "sma": 4,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34815958,
+      "sd": 170965010,
+      "smp": 93870426,
+      "sma": 73564056,
+      "total": 373215450
+    }
+  },
+  {
+    "kode_pro": "16",
+    "kode_kab": "1673",
+    "nama_kabupaten": "KOTA LUBUK LINGGAU",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 3,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18964663,
+      "sd": 160469420,
+      "smp": 55468416,
+      "sma": 28427076,
+      "total": 263329575
+    }
+  },
+  {
+    "kode_pro": "16",
+    "kode_kab": "1674",
+    "nama_kabupaten": "KOTA PRABUMULIH",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 6,
+      "sma": 6,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17342224,
+      "sd": 141028420,
+      "smp": 96757890,
+      "sma": 107866974,
+      "total": 362995508
+    }
+  },
+  {
+    "kode_pro": "17",
+    "kode_kab": "1701",
+    "nama_kabupaten": "BENGKULU SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 3,
+      "sma": 6,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 48806559,
+      "sd": 110085766,
+      "smp": 44585781,
+      "sma": 95421048,
+      "total": 298899154
+    }
+  },
+  {
+    "kode_pro": "17",
+    "kode_kab": "1702",
+    "nama_kabupaten": "REJANG LEBONG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 4,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 30610190,
+      "sd": 126590821,
+      "smp": 68874980,
+      "sma": 64779884,
+      "total": 290855875
+    }
+  },
+  {
+    "kode_pro": "17",
+    "kode_kab": "1703",
+    "nama_kabupaten": "BENGKULU UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 4,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 54164961,
+      "sd": 141657896,
+      "smp": 71985228,
+      "sma": 107209122,
+      "total": 375017207
+    }
+  },
+  {
+    "kode_pro": "17",
+    "kode_kab": "1704",
+    "nama_kabupaten": "KAUR",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 4,
+      "sma": 5,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32592862,
+      "sd": 101193846,
+      "smp": 66731292,
+      "sma": 85697240,
+      "total": 286215240
+    }
+  },
+  {
+    "kode_pro": "17",
+    "kode_kab": "1705",
+    "nama_kabupaten": "SELUMA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 3,
+      "sma": 2,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 36976924,
+      "sd": 134375928,
+      "smp": 46244145,
+      "sma": 29708588,
+      "total": 247305585
+    }
+  },
+  {
+    "kode_pro": "17",
+    "kode_kab": "1706",
+    "nama_kabupaten": "MUKO MUKO",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 3,
+      "sma": 3,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18756397,
+      "sd": 143194365,
+      "smp": 55363434,
+      "sma": 48957486,
+      "total": 266271682
+    }
+  },
+  {
+    "kode_pro": "17",
+    "kode_kab": "1707",
+    "nama_kabupaten": "LEBONG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 4,
+      "sma": 4,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16273746,
+      "sd": 157734270,
+      "smp": 74219660,
+      "sma": 63000732,
+      "total": 311228408
+    }
+  },
+  {
+    "kode_pro": "17",
+    "kode_kab": "1708",
+    "nama_kabupaten": "KEPAHIANG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 6,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28166640,
+      "sd": 112417672,
+      "smp": 96226398,
+      "sma": 87795996,
+      "total": 324606706
+    }
+  },
+  {
+    "kode_pro": "17",
+    "kode_kab": "1709",
+    "nama_kabupaten": "BENGKULU TENGAH",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 6,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31300382,
+      "sd": 98096142,
+      "smp": 101065596,
+      "sma": 69015328,
+      "total": 299477448
+    }
+  },
+  {
+    "kode_pro": "17",
+    "kode_kab": "1771",
+    "nama_kabupaten": "KOTA BENGKULU",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 6,
+      "sma": 4,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 47833233,
+      "sd": 98859702,
+      "smp": 90838530,
+      "sma": 56459040,
+      "total": 293990505
+    }
+  },
+  {
+    "kode_pro": "18",
+    "kode_kab": "1801",
+    "nama_kabupaten": "LAMPUNG SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 5,
+      "sma": 2,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 51310842,
+      "sd": 124255145,
+      "smp": 87122985,
+      "sma": 29095400,
+      "total": 291784372
+    }
+  },
+  {
+    "kode_pro": "18",
+    "kode_kab": "1802",
+    "nama_kabupaten": "LAMPUNG TENGAH",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 5,
+      "sma": 6,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 45990120,
+      "sd": 145279305,
+      "smp": 76194645,
+      "sma": 90747108,
+      "total": 358211178
+    }
+  },
+  {
+    "kode_pro": "18",
+    "kode_kab": "1803",
+    "nama_kabupaten": "LAMPUNG UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 5,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 50436972,
+      "sd": 113503590,
+      "smp": 78048045,
+      "sma": 77969200,
+      "total": 319957807
+    }
+  },
+  {
+    "kode_pro": "18",
+    "kode_kab": "1804",
+    "nama_kabupaten": "LAMPUNG BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 4,
+      "sma": 4,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31899732,
+      "sd": 102737916,
+      "smp": 74907548,
+      "sma": 62402984,
+      "total": 271948180
+    }
+  },
+  {
+    "kode_pro": "18",
+    "kode_kab": "1805",
+    "nama_kabupaten": "TULANG BAWANG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 6,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18853338,
+      "sd": 141908120,
+      "smp": 93901686,
+      "sma": 91931360,
+      "total": 346594504
+    }
+  },
+  {
+    "kode_pro": "18",
+    "kode_kab": "1806",
+    "nama_kabupaten": "TANGGAMUS",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 4,
+      "sma": 2,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29125958,
+      "sd": 102263959,
+      "smp": 68147464,
+      "sma": 32120562,
+      "total": 231657943
+    }
+  },
+  {
+    "kode_pro": "18",
+    "kode_kab": "1807",
+    "nama_kabupaten": "LAMPUNG TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 4,
+      "sma": 5,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17535885,
+      "sd": 90303654,
+      "smp": 60427940,
+      "sma": 71074225,
+      "total": 239341704
+    }
+  },
+  {
+    "kode_pro": "18",
+    "kode_kab": "1808",
+    "nama_kabupaten": "WAY KANAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 4,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 53882232,
+      "sd": 126632024,
+      "smp": 70591632,
+      "sma": 96074658,
+      "total": 347180546
+    }
+  },
+  {
+    "kode_pro": "18",
+    "kode_kab": "1809",
+    "nama_kabupaten": "PESAWARAN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 6,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16079991,
+      "sd": 128076216,
+      "smp": 96596706,
+      "sma": 108838374,
+      "total": 349591287
+    }
+  },
+  {
+    "kode_pro": "18",
+    "kode_kab": "1810",
+    "nama_kabupaten": "PRINGSEWU",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 6,
+      "sma": 2,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17607327,
+      "sd": 133024545,
+      "smp": 88801038,
+      "sma": 29520778,
+      "total": 268953688
+    }
+  },
+  {
+    "kode_pro": "18",
+    "kode_kab": "1811",
+    "nama_kabupaten": "MESUJI",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 5,
+      "sma": 5,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 55920522,
+      "sd": 188089300,
+      "smp": 76114630,
+      "sma": 88193505,
+      "total": 408317957
+    }
+  },
+  {
+    "kode_pro": "18",
+    "kode_kab": "1812",
+    "nama_kabupaten": "TULANG BAWANG BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 3,
+      "sma": 6,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 52959738,
+      "sd": 143527992,
+      "smp": 54725772,
+      "sma": 111066216,
+      "total": 362279718
+    }
+  },
+  {
+    "kode_pro": "18",
+    "kode_kab": "1813",
+    "nama_kabupaten": "PESISIR BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 4,
+      "sma": 3,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16058716,
+      "sd": 108743622,
+      "smp": 60392448,
+      "sma": 53230524,
+      "total": 238425310
+    }
+  },
+  {
+    "kode_pro": "18",
+    "kode_kab": "1871",
+    "nama_kabupaten": "KOTA BANDAR LAMPUNG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 6,
+      "sma": 4,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 51246456,
+      "sd": 104771688,
+      "smp": 106010940,
+      "sma": 68122912,
+      "total": 330151996
+    }
+  },
+  {
+    "kode_pro": "18",
+    "kode_kab": "1872",
+    "nama_kabupaten": "KOTA METRO",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 6,
+      "sma": 4,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 47102172,
+      "sd": 122373712,
+      "smp": 87832140,
+      "sma": 62334828,
+      "total": 319642852
+    }
+  },
+  {
+    "kode_pro": "19",
+    "kode_kab": "1901",
+    "nama_kabupaten": "BANGKA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 5,
+      "sma": 2,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29265132,
+      "sd": 152771610,
+      "smp": 78969380,
+      "sma": 31004936,
+      "total": 292011058
+    }
+  },
+  {
+    "kode_pro": "19",
+    "kode_kab": "1902",
+    "nama_kabupaten": "BELITUNG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 5,
+      "sma": 4,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 42762150,
+      "sd": 124488070,
+      "smp": 76228845,
+      "sma": 73177408,
+      "total": 316656473
+    }
+  },
+  {
+    "kode_pro": "19",
+    "kode_kab": "1903",
+    "nama_kabupaten": "BANGKA SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 4,
+      "sma": 4,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31072732,
+      "sd": 142132870,
+      "smp": 68962476,
+      "sma": 62529288,
+      "total": 304697366
+    }
+  },
+  {
+    "kode_pro": "19",
+    "kode_kab": "1904",
+    "nama_kabupaten": "BANGKA TENGAH",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 6,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28831016,
+      "sd": 89552664,
+      "smp": 87744954,
+      "sma": 82171350,
+      "total": 288299984
+    }
+  },
+  {
+    "kode_pro": "19",
+    "kode_kab": "1905",
+    "nama_kabupaten": "BANGKA BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 5,
+      "sma": 5,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18105688,
+      "sd": 132871382,
+      "smp": 83501375,
+      "sma": 76452535,
+      "total": 310930980
+    }
+  },
+  {
+    "kode_pro": "19",
+    "kode_kab": "1906",
+    "nama_kabupaten": "BELITUNG TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 3,
+      "sma": 4,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14529792,
+      "sd": 115722032,
+      "smp": 55896945,
+      "sma": 72085992,
+      "total": 258234761
+    }
+  },
+  {
+    "kode_pro": "19",
+    "kode_kab": "1971",
+    "nama_kabupaten": "KOTA PANGKAL PINANG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 3,
+      "sma": 6,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32128640,
+      "sd": 128624868,
+      "smp": 53271603,
+      "sma": 104508366,
+      "total": 318533477
+    }
+  },
+  {
+    "kode_pro": "21",
+    "kode_kab": "2101",
+    "nama_kabupaten": "BINTAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 5,
+      "sma": 6,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 53407146,
+      "sd": 139241601,
+      "smp": 90702355,
+      "sma": 85764348,
+      "total": 369115450
+    }
+  },
+  {
+    "kode_pro": "21",
+    "kode_kab": "2102",
+    "nama_kabupaten": "KARIMUN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 3,
+      "sma": 5,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18686900,
+      "sd": 110312671,
+      "smp": 45867009,
+      "sma": 85606660,
+      "total": 260473240
+    }
+  },
+  {
+    "kode_pro": "21",
+    "kode_kab": "2103",
+    "nama_kabupaten": "NATUNA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 5,
+      "sma": 6,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34420340,
+      "sd": 104567376,
+      "smp": 78980710,
+      "sma": 109431192,
+      "total": 327399618
+    }
+  },
+  {
+    "kode_pro": "21",
+    "kode_kab": "2104",
+    "nama_kabupaten": "LINGGA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 3,
+      "sma": 5,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 42245097,
+      "sd": 94618866,
+      "smp": 46551684,
+      "sma": 81189495,
+      "total": 264605142
+    }
+  },
+  {
+    "kode_pro": "21",
+    "kode_kab": "2105",
+    "nama_kabupaten": "KEPULAUAN ANAMBAS",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 3,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28668288,
+      "sd": 173752930,
+      "smp": 43342095,
+      "sma": 91260258,
+      "total": 337023571
+    }
+  },
+  {
+    "kode_pro": "21",
+    "kode_kab": "2171",
+    "nama_kabupaten": "KOTA BATAM",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 6,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15233050,
+      "sd": 125420498,
+      "smp": 86503932,
+      "sma": 59105196,
+      "total": 286262676
+    }
+  },
+  {
+    "kode_pro": "21",
+    "kode_kab": "2172",
+    "nama_kabupaten": "KOTA TANJUNG PINANG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 5,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29760574,
+      "sd": 119796271,
+      "smp": 84649860,
+      "sma": 35552508,
+      "total": 269759213
+    }
+  },
+  {
+    "kode_pro": "31",
+    "kode_kab": "3101",
+    "nama_kabupaten": "KEPULAUAN SERIBU",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 6,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14047221,
+      "sd": 89907570,
+      "smp": 113079636,
+      "sma": 70506572,
+      "total": 287540999
+    }
+  },
+  {
+    "kode_pro": "31",
+    "kode_kab": "3171",
+    "nama_kabupaten": "KOTA JAKARTA PUSAT",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 5,
+      "sma": 6,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 33963352,
+      "sd": 85255494,
+      "smp": 90349195,
+      "sma": 107524872,
+      "total": 317092913
+    }
+  },
+  {
+    "kode_pro": "31",
+    "kode_kab": "3172",
+    "nama_kabupaten": "KOTA JAKARTA UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 6,
+      "sma": 5,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 55220307,
+      "sd": 142193768,
+      "smp": 90879210,
+      "sma": 82541705,
+      "total": 370834990
+    }
+  },
+  {
+    "kode_pro": "31",
+    "kode_kab": "3173",
+    "nama_kabupaten": "KOTA JAKARTA BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 6,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34091880,
+      "sd": 124869255,
+      "smp": 97203990,
+      "sma": 93662634,
+      "total": 349827759
+    }
+  },
+  {
+    "kode_pro": "31",
+    "kode_kab": "3174",
+    "nama_kabupaten": "KOTA JAKARTA SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 4,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 56812590,
+      "sd": 115304216,
+      "smp": 60534476,
+      "sma": 74721310,
+      "total": 307372592
+    }
+  },
+  {
+    "kode_pro": "31",
+    "kode_kab": "3175",
+    "nama_kabupaten": "KOTA JAKARTA TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 3,
+      "sma": 5,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15908065,
+      "sd": 151458224,
+      "smp": 52213494,
+      "sma": 73622985,
+      "total": 293202768
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3201",
+    "nama_kabupaten": "BOGOR",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 5,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 52777317,
+      "sd": 148300736,
+      "smp": 84661770,
+      "sma": 95890386,
+      "total": 381630209
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3202",
+    "nama_kabupaten": "SUKABUMI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 6,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 35023938,
+      "sd": 132917750,
+      "smp": 92662572,
+      "sma": 73700530,
+      "total": 334304790
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3203",
+    "nama_kabupaten": "CIANJUR",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 5,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 51002562,
+      "sd": 85116492,
+      "smp": 76313450,
+      "sma": 71267524,
+      "total": 283700028
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3204",
+    "nama_kabupaten": "BANDUNG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 5,
+      "sma": 5,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14811049,
+      "sd": 163456890,
+      "smp": 73585355,
+      "sma": 83042310,
+      "total": 334895604
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3205",
+    "nama_kabupaten": "GARUT",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 3,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 44938140,
+      "sd": 149554880,
+      "smp": 42510609,
+      "sma": 77302955,
+      "total": 314306584
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3206",
+    "nama_kabupaten": "TASIKMALAYA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 6,
+      "sma": 3,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15559783,
+      "sd": 147983210,
+      "smp": 90270000,
+      "sma": 54030594,
+      "total": 307843587
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3207",
+    "nama_kabupaten": "CIAMIS",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 4,
+      "sma": 5,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29897182,
+      "sd": 172059170,
+      "smp": 74880972,
+      "sma": 78567050,
+      "total": 355404374
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3208",
+    "nama_kabupaten": "KUNINGAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 4,
+      "sma": 2,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 50118423,
+      "sd": 126753048,
+      "smp": 69613848,
+      "sma": 30167618,
+      "total": 276652937
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3209",
+    "nama_kabupaten": "CIREBON",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 3,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 56534892,
+      "sd": 130292536,
+      "smp": 53226003,
+      "sma": 74919096,
+      "total": 314972527
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3210",
+    "nama_kabupaten": "MAJALENGKA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 5,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 42617445,
+      "sd": 101810130,
+      "smp": 91693035,
+      "sma": 90741430,
+      "total": 326862040
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3211",
+    "nama_kabupaten": "SUMEDANG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 6,
+      "sma": 3,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17221214,
+      "sd": 86305272,
+      "smp": 85725258,
+      "sma": 51681396,
+      "total": 240933140
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3212",
+    "nama_kabupaten": "INDRAMAYU",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 6,
+      "sma": 3,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 43044714,
+      "sd": 104908958,
+      "smp": 112265316,
+      "sma": 51432177,
+      "total": 311651165
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3213",
+    "nama_kabupaten": "SUBANG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 4,
+      "sma": 2,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 48176082,
+      "sd": 108303084,
+      "smp": 74915160,
+      "sma": 36469658,
+      "total": 267863984
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3214",
+    "nama_kabupaten": "PURWAKARTA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 3,
+      "sma": 4,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14099334,
+      "sd": 122139808,
+      "smp": 49218174,
+      "sma": 64481184,
+      "total": 249938500
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3215",
+    "nama_kabupaten": "KARAWANG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 6,
+      "sma": 6,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17557733,
+      "sd": 187793630,
+      "smp": 108122058,
+      "sma": 109704630,
+      "total": 423178051
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3216",
+    "nama_kabupaten": "BEKASI",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 4,
+      "sma": 3,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 51112191,
+      "sd": 106828386,
+      "smp": 69337916,
+      "sma": 46316091,
+      "total": 273594584
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3217",
+    "nama_kabupaten": "BANDUNG BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 3,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15535289,
+      "sd": 169939450,
+      "smp": 53846607,
+      "sma": 90908715,
+      "total": 330230061
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3218",
+    "nama_kabupaten": "PANGANDARAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 3,
+      "sma": 5,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 55716906,
+      "sd": 114669807,
+      "smp": 49294569,
+      "sma": 76135735,
+      "total": 295817017
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3271",
+    "nama_kabupaten": "KOTA BOGOR",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 5,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 42338478,
+      "sd": 89161932,
+      "smp": 74139665,
+      "sma": 29208960,
+      "total": 234849035
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3272",
+    "nama_kabupaten": "KOTA SUKABUMI",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 3,
+      "sma": 2,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 46082298,
+      "sd": 176171660,
+      "smp": 56294148,
+      "sma": 36758364,
+      "total": 315306470
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3273",
+    "nama_kabupaten": "KOTA BANDUNG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 5,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14379211,
+      "sd": 128178279,
+      "smp": 82017880,
+      "sma": 78760680,
+      "total": 303336050
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3274",
+    "nama_kabupaten": "KOTA CIREBON",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 3,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31093860,
+      "sd": 158045733,
+      "smp": 48460824,
+      "sma": 60366328,
+      "total": 297966745
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3275",
+    "nama_kabupaten": "KOTA BEKASI",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 6,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18001703,
+      "sd": 125013864,
+      "smp": 98726940,
+      "sma": 79972320,
+      "total": 321714827
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3276",
+    "nama_kabupaten": "KOTA DEPOK",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 6,
+      "sma": 2,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14780897,
+      "sd": 149809390,
+      "smp": 106211628,
+      "sma": 35409888,
+      "total": 306211803
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3277",
+    "nama_kabupaten": "KOTA CIMAHI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 5,
+      "sma": 6,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 35877080,
+      "sd": 144519210,
+      "smp": 76054850,
+      "sma": 108659220,
+      "total": 365110360
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3278",
+    "nama_kabupaten": "KOTA TASIKMALAYA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 3,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15245627,
+      "sd": 132902793,
+      "smp": 54267003,
+      "sma": 56968560,
+      "total": 259383983
+    }
+  },
+  {
+    "kode_pro": "32",
+    "kode_kab": "3279",
+    "nama_kabupaten": "KOTA BANJAR",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 6,
+      "sma": 3,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 46924956,
+      "sd": 146382952,
+      "smp": 101669790,
+      "sma": 46921983,
+      "total": 341899681
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3301",
+    "nama_kabupaten": "CILACAP",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 4,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 56264895,
+      "sd": 151777472,
+      "smp": 62541968,
+      "sma": 47230923,
+      "total": 317815258
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3302",
+    "nama_kabupaten": "BANYUMAS",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 5,
+      "sma": 2,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 54266115,
+      "sd": 158652387,
+      "smp": 83002320,
+      "sma": 32662818,
+      "total": 328583640
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3303",
+    "nama_kabupaten": "PURBALINGGA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 4,
+      "sma": 2,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 36562758,
+      "sd": 101634099,
+      "smp": 59521044,
+      "sma": 34322936,
+      "total": 232040837
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3304",
+    "nama_kabupaten": "BANJARNEGARA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 6,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31060808,
+      "sd": 118940376,
+      "smp": 89150496,
+      "sma": 100461288,
+      "total": 339612968
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3305",
+    "nama_kabupaten": "KEBUMEN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 6,
+      "sma": 3,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 46326498,
+      "sd": 146372928,
+      "smp": 99721416,
+      "sma": 49890906,
+      "total": 342311748
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3306",
+    "nama_kabupaten": "PURWOREJO",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 3,
+      "sma": 2,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31052346,
+      "sd": 120475424,
+      "smp": 49321806,
+      "sma": 32923528,
+      "total": 233773104
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3307",
+    "nama_kabupaten": "WONOSOBO",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 6,
+      "sma": 3,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15076507,
+      "sd": 113465946,
+      "smp": 106454070,
+      "sma": 46354749,
+      "total": 281351272
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3308",
+    "nama_kabupaten": "MAGELANG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 3,
+      "sma": 2,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17098046,
+      "sd": 151844400,
+      "smp": 45059928,
+      "sma": 29593080,
+      "total": 243595454
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3309",
+    "nama_kabupaten": "BOYOLALI",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 6,
+      "sma": 5,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 56467635,
+      "sd": 122808472,
+      "smp": 113997174,
+      "sma": 92602015,
+      "total": 385875296
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3310",
+    "nama_kabupaten": "KLATEN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 4,
+      "sma": 5,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 43441938,
+      "sd": 105092844,
+      "smp": 60100272,
+      "sma": 91865570,
+      "total": 300500624
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3311",
+    "nama_kabupaten": "SUKOHARJO",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 6,
+      "sma": 6,
+      "total": 19
+    },
+    "anggaran_revitalisasi": {
+      "paud": 52413225,
+      "sd": 175911980,
+      "smp": 108423498,
+      "sma": 113499438,
+      "total": 450248141
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3312",
+    "nama_kabupaten": "WONOGIRI",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 3,
+      "sma": 2,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16308456,
+      "sd": 132045795,
+      "smp": 48055971,
+      "sma": 34961934,
+      "total": 231372156
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3313",
+    "nama_kabupaten": "KARANGANYAR",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 5,
+      "sma": 5,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28316388,
+      "sd": 138618900,
+      "smp": 78287695,
+      "sma": 87812095,
+      "total": 333035078
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3314",
+    "nama_kabupaten": "SRAGEN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 5,
+      "sma": 6,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15449127,
+      "sd": 114704870,
+      "smp": 74695615,
+      "sma": 107796978,
+      "total": 312646590
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3315",
+    "nama_kabupaten": "GROBOGAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 6,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 55220154,
+      "sd": 100046982,
+      "smp": 85287540,
+      "sma": 76964835,
+      "total": 317519511
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3316",
+    "nama_kabupaten": "BLORA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 4,
+      "sma": 2,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 30007668,
+      "sd": 91664340,
+      "smp": 65858880,
+      "sma": 33251918,
+      "total": 220782806
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3317",
+    "nama_kabupaten": "REMBANG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 3,
+      "sma": 5,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 53898495,
+      "sd": 102690888,
+      "smp": 44365029,
+      "sma": 91577735,
+      "total": 292532147
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3318",
+    "nama_kabupaten": "PATI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 4,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34521002,
+      "sd": 100711520,
+      "smp": 68008844,
+      "sma": 65118716,
+      "total": 268360082
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3319",
+    "nama_kabupaten": "KUDUS",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 4,
+      "sma": 5,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 50121246,
+      "sd": 134824149,
+      "smp": 66949232,
+      "sma": 79565020,
+      "total": 331459647
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3320",
+    "nama_kabupaten": "JEPARA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 5,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32564326,
+      "sd": 115116799,
+      "smp": 93029795,
+      "sma": 75793212,
+      "total": 316504132
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3321",
+    "nama_kabupaten": "DEMAK",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 3,
+      "sma": 2,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18338979,
+      "sd": 121658040,
+      "smp": 48592470,
+      "sma": 34568756,
+      "total": 223158245
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3322",
+    "nama_kabupaten": "SEMARANG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 4,
+      "sma": 2,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14366520,
+      "sd": 131496526,
+      "smp": 63265648,
+      "sma": 37174982,
+      "total": 246303676
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3323",
+    "nama_kabupaten": "TEMANGGUNG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 5,
+      "sma": 5,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15123578,
+      "sd": 170855670,
+      "smp": 74984115,
+      "sma": 92015210,
+      "total": 352978573
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3324",
+    "nama_kabupaten": "KENDAL",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 6,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31523634,
+      "sd": 103351402,
+      "smp": 95752956,
+      "sma": 111909846,
+      "total": 342537838
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3325",
+    "nama_kabupaten": "BATANG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 3,
+      "sma": 3,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 49417380,
+      "sd": 111595932,
+      "smp": 42657714,
+      "sma": 50289486,
+      "total": 253960512
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3326",
+    "nama_kabupaten": "PEKALONGAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 5,
+      "sma": 3,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 30543356,
+      "sd": 91731342,
+      "smp": 84994255,
+      "sma": 47633550,
+      "total": 254902503
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3327",
+    "nama_kabupaten": "PEMALANG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 4,
+      "sma": 6,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29638282,
+      "sd": 151737496,
+      "smp": 66990340,
+      "sma": 97036338,
+      "total": 345402456
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3328",
+    "nama_kabupaten": "TEGAL",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 3,
+      "sma": 6,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 45657342,
+      "sd": 102258926,
+      "smp": 50270031,
+      "sma": 104727054,
+      "total": 302913353
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3329",
+    "nama_kabupaten": "BREBES",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 6,
+      "sma": 2,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31632954,
+      "sd": 127687320,
+      "smp": 112710132,
+      "sma": 31856466,
+      "total": 303886872
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3371",
+    "nama_kabupaten": "KOTA MAGELANG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 5,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 50293935,
+      "sd": 102406866,
+      "smp": 75305935,
+      "sma": 83785645,
+      "total": 311792381
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3372",
+    "nama_kabupaten": "KOTA SURAKARTA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 5,
+      "sma": 3,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 50707731,
+      "sd": 144208640,
+      "smp": 91285240,
+      "sma": 56179599,
+      "total": 342381210
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3373",
+    "nama_kabupaten": "KOTA SALATIGA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 5,
+      "sma": 4,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 56571495,
+      "sd": 105556164,
+      "smp": 77620785,
+      "sma": 61851904,
+      "total": 301600348
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3374",
+    "nama_kabupaten": "KOTA SEMARANG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 3,
+      "sma": 3,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 54850725,
+      "sd": 158375180,
+      "smp": 56531064,
+      "sma": 55403520,
+      "total": 325160489
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3375",
+    "nama_kabupaten": "KOTA PEKALONGAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 6,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 43798602,
+      "sd": 107231664,
+      "smp": 107205078,
+      "sma": 92067580,
+      "total": 350302924
+    }
+  },
+  {
+    "kode_pro": "33",
+    "kode_kab": "3376",
+    "nama_kabupaten": "KOTA TEGAL",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 4,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 47645946,
+      "sd": 112018284,
+      "smp": 64517120,
+      "sma": 33996356,
+      "total": 258177706
+    }
+  },
+  {
+    "kode_pro": "34",
+    "kode_kab": "3401",
+    "nama_kabupaten": "KULON PROGO",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 4,
+      "sma": 6,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31748064,
+      "sd": 103745271,
+      "smp": 58949952,
+      "sma": 90405402,
+      "total": 284848689
+    }
+  },
+  {
+    "kode_pro": "34",
+    "kode_kab": "3402",
+    "nama_kabupaten": "BANTUL",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 6,
+      "sma": 4,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18271130,
+      "sd": 170411166,
+      "smp": 100087938,
+      "sma": 59208384,
+      "total": 347978618
+    }
+  },
+  {
+    "kode_pro": "34",
+    "kode_kab": "3403",
+    "nama_kabupaten": "GUNUNGKIDUL",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 5,
+      "sma": 6,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 37685722,
+      "sd": 167138800,
+      "smp": 87501640,
+      "sma": 84031548,
+      "total": 376357710
+    }
+  },
+  {
+    "kode_pro": "34",
+    "kode_kab": "3404",
+    "nama_kabupaten": "SLEMAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 4,
+      "sma": 2,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34688948,
+      "sd": 180887760,
+      "smp": 68292520,
+      "sma": 34137340,
+      "total": 318006568
+    }
+  },
+  {
+    "kode_pro": "34",
+    "kode_kab": "3471",
+    "nama_kabupaten": "KOTA YOGYAKARTA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 4,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16421023,
+      "sd": 153617796,
+      "smp": 72936356,
+      "sma": 88802615,
+      "total": 331777790
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3501",
+    "nama_kabupaten": "PACITAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 5,
+      "sma": 2,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28500286,
+      "sd": 147607648,
+      "smp": 88375470,
+      "sma": 33815312,
+      "total": 298298716
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3502",
+    "nama_kabupaten": "PONOROGO",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 4,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31414848,
+      "sd": 143169993,
+      "smp": 73185512,
+      "sma": 100237662,
+      "total": 348008015
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3503",
+    "nama_kabupaten": "TRENGGALEK",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 3,
+      "sma": 3,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31058902,
+      "sd": 98673978,
+      "smp": 55697802,
+      "sma": 53470293,
+      "total": 238900975
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3504",
+    "nama_kabupaten": "TULUNGAGUNG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 3,
+      "sma": 6,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15842825,
+      "sd": 167544684,
+      "smp": 51326088,
+      "sma": 109170048,
+      "total": 343883645
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3505",
+    "nama_kabupaten": "BLITAR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 5,
+      "sma": 5,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16441760,
+      "sd": 110532142,
+      "smp": 73089770,
+      "sma": 75400735,
+      "total": 275464407
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3506",
+    "nama_kabupaten": "KEDIRI",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 6,
+      "sma": 3,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18474508,
+      "sd": 133800291,
+      "smp": 100642698,
+      "sma": 43984113,
+      "total": 296901610
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3507",
+    "nama_kabupaten": "MALANG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 3,
+      "sma": 6,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18103994,
+      "sd": 131835952,
+      "smp": 43760319,
+      "sma": 97807860,
+      "total": 291508125
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3508",
+    "nama_kabupaten": "LUMAJANG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 6,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29932546,
+      "sd": 108707532,
+      "smp": 98689926,
+      "sma": 76795000,
+      "total": 314125004
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3509",
+    "nama_kabupaten": "JEMBER",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 3,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14229270,
+      "sd": 165466820,
+      "smp": 52154130,
+      "sma": 54770199,
+      "total": 286620419
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3510",
+    "nama_kabupaten": "BANYUWANGI",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 5,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 50822988,
+      "sd": 95725938,
+      "smp": 80745860,
+      "sma": 31265110,
+      "total": 258559896
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3511",
+    "nama_kabupaten": "BONDOWOSO",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 6,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32693184,
+      "sd": 106791923,
+      "smp": 105306714,
+      "sma": 112914888,
+      "total": 357706709
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3512",
+    "nama_kabupaten": "SITUBONDO",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 6,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 54656751,
+      "sd": 131231261,
+      "smp": 105279144,
+      "sma": 88324422,
+      "total": 379491578
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3513",
+    "nama_kabupaten": "PROBOLINGGO",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 3,
+      "sma": 6,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 43663488,
+      "sd": 102884004,
+      "smp": 44103441,
+      "sma": 88825104,
+      "total": 279476037
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3514",
+    "nama_kabupaten": "PASURUAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 5,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29326520,
+      "sd": 113998736,
+      "smp": 70916690,
+      "sma": 70968410,
+      "total": 285210356
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3515",
+    "nama_kabupaten": "SIDOARJO",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 6,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 35103602,
+      "sd": 127899492,
+      "smp": 100827474,
+      "sma": 80985255,
+      "total": 344815823
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3516",
+    "nama_kabupaten": "MOJOKERTO",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 6,
+      "sma": 6,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 44088192,
+      "sd": 150073064,
+      "smp": 110857590,
+      "sma": 110229504,
+      "total": 415248350
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3517",
+    "nama_kabupaten": "JOMBANG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 4,
+      "sma": 6,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28552234,
+      "sd": 121221401,
+      "smp": 67233400,
+      "sma": 107815062,
+      "total": 324822097
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3518",
+    "nama_kabupaten": "NGANJUK",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 3,
+      "sma": 2,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 48389436,
+      "sd": 134509815,
+      "smp": 45881616,
+      "sma": 30236588,
+      "total": 259017455
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3519",
+    "nama_kabupaten": "MADIUN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 5,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28040552,
+      "sd": 122295104,
+      "smp": 82303845,
+      "sma": 45814446,
+      "total": 278453947
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3520",
+    "nama_kabupaten": "MAGETAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 6,
+      "sma": 5,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29234646,
+      "sd": 143540690,
+      "smp": 103300590,
+      "sma": 82152065,
+      "total": 358227991
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3521",
+    "nama_kabupaten": "NGAWI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 6,
+      "sma": 4,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31767832,
+      "sd": 131875849,
+      "smp": 105008676,
+      "sma": 60898264,
+      "total": 329550621
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3522",
+    "nama_kabupaten": "BOJONEGORO",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 3,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 56552277,
+      "sd": 151981749,
+      "smp": 52265694,
+      "sma": 104801478,
+      "total": 365601198
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3523",
+    "nama_kabupaten": "TUBAN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 5,
+      "sma": 2,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18053524,
+      "sd": 110399856,
+      "smp": 81587805,
+      "sma": 28462994,
+      "total": 238504179
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3524",
+    "nama_kabupaten": "LAMONGAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 3,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 55684914,
+      "sd": 120263297,
+      "smp": 50543703,
+      "sma": 56603428,
+      "total": 283095342
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3525",
+    "nama_kabupaten": "GRESIK",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 5,
+      "sma": 2,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 52530132,
+      "sd": 149003721,
+      "smp": 82069200,
+      "sma": 32981210,
+      "total": 316584263
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3526",
+    "nama_kabupaten": "BANGKALAN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 5,
+      "sma": 5,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16825200,
+      "sd": 92340414,
+      "smp": 91587350,
+      "sma": 93067710,
+      "total": 293820674
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3527",
+    "nama_kabupaten": "SAMPANG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 3,
+      "sma": 3,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28231384,
+      "sd": 126474082,
+      "smp": 54344985,
+      "sma": 47978571,
+      "total": 257029022
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3528",
+    "nama_kabupaten": "PAMEKASAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 4,
+      "sma": 3,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 30618676,
+      "sd": 172102270,
+      "smp": 66777032,
+      "sma": 53807319,
+      "total": 323305297
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3529",
+    "nama_kabupaten": "SUMENEP",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 4,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 30228566,
+      "sd": 140447936,
+      "smp": 70517008,
+      "sma": 46653015,
+      "total": 287846525
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3571",
+    "nama_kabupaten": "KOTA KEDIRI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 5,
+      "sma": 2,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 37254758,
+      "sd": 100603896,
+      "smp": 94246645,
+      "sma": 34966584,
+      "total": 267071883
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3572",
+    "nama_kabupaten": "KOTA BLITAR",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 3,
+      "sma": 4,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 44302665,
+      "sd": 94646658,
+      "smp": 45094944,
+      "sma": 69083784,
+      "total": 253128051
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3573",
+    "nama_kabupaten": "KOTA MALANG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 3,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 54705882,
+      "sd": 123026120,
+      "smp": 50867640,
+      "sma": 28800930,
+      "total": 257400572
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3574",
+    "nama_kabupaten": "KOTA PROBOLINGGO",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 3,
+      "sma": 3,
+      "total": 10
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18188866,
+      "sd": 87129996,
+      "smp": 54728142,
+      "sma": 56877078,
+      "total": 216924082
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3575",
+    "nama_kabupaten": "KOTA PASURUAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 6,
+      "sma": 4,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 53480625,
+      "sd": 87656604,
+      "smp": 99434370,
+      "sma": 70139380,
+      "total": 310710979
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3576",
+    "nama_kabupaten": "KOTA MOJOKERTO",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 4,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 46657020,
+      "sd": 121151440,
+      "smp": 59712836,
+      "sma": 74472375,
+      "total": 301993671
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3577",
+    "nama_kabupaten": "KOTA MADIUN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 5,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14913362,
+      "sd": 116730272,
+      "smp": 90729435,
+      "sma": 54540003,
+      "total": 276913072
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3578",
+    "nama_kabupaten": "KOTA SURABAYA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 6,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 52782993,
+      "sd": 107260160,
+      "smp": 87492654,
+      "sma": 84260076,
+      "total": 331795883
+    }
+  },
+  {
+    "kode_pro": "35",
+    "kode_kab": "3579",
+    "nama_kabupaten": "KOTA BATU",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 6,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14530392,
+      "sd": 119645078,
+      "smp": 107900658,
+      "sma": 61707824,
+      "total": 303783952
+    }
+  },
+  {
+    "kode_pro": "36",
+    "kode_kab": "3601",
+    "nama_kabupaten": "PANDEGLANG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 3,
+      "sma": 4,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 37709482,
+      "sd": 95399424,
+      "smp": 56060370,
+      "sma": 75421104,
+      "total": 264590380
+    }
+  },
+  {
+    "kode_pro": "36",
+    "kode_kab": "3602",
+    "nama_kabupaten": "LEBAK",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 6,
+      "sma": 5,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 48527547,
+      "sd": 146477992,
+      "smp": 97791486,
+      "sma": 81818180,
+      "total": 374615205
+    }
+  },
+  {
+    "kode_pro": "36",
+    "kode_kab": "3603",
+    "nama_kabupaten": "TANGERANG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 3,
+      "sma": 6,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 42569016,
+      "sd": 111743345,
+      "smp": 54519867,
+      "sma": 95747658,
+      "total": 304579886
+    }
+  },
+  {
+    "kode_pro": "36",
+    "kode_kab": "3604",
+    "nama_kabupaten": "SERANG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 4,
+      "sma": 6,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17641113,
+      "sd": 138759976,
+      "smp": 70929056,
+      "sma": 103340982,
+      "total": 330671127
+    }
+  },
+  {
+    "kode_pro": "36",
+    "kode_kab": "3671",
+    "nama_kabupaten": "KOTA TANGERANG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 6,
+      "sma": 2,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14254116,
+      "sd": 186820530,
+      "smp": 84381330,
+      "sma": 36977222,
+      "total": 322433198
+    }
+  },
+  {
+    "kode_pro": "36",
+    "kode_kab": "3672",
+    "nama_kabupaten": "KOTA CILEGON",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 5,
+      "sma": 5,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 43417653,
+      "sd": 150744798,
+      "smp": 82069830,
+      "sma": 78215280,
+      "total": 354447561
+    }
+  },
+  {
+    "kode_pro": "36",
+    "kode_kab": "3673",
+    "nama_kabupaten": "KOTA SERANG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 4,
+      "sma": 4,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 37744958,
+      "sd": 102681750,
+      "smp": 74383448,
+      "sma": 68908660,
+      "total": 283718816
+    }
+  },
+  {
+    "kode_pro": "36",
+    "kode_kab": "3674",
+    "nama_kabupaten": "KOTA TANGERANG SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 4,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15117759,
+      "sd": 185259120,
+      "smp": 69562296,
+      "sma": 81854845,
+      "total": 351794020
+    }
+  },
+  {
+    "kode_pro": "51",
+    "kode_kab": "5101",
+    "nama_kabupaten": "JEMBRANA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 3,
+      "sma": 6,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18514680,
+      "sd": 116646110,
+      "smp": 50387067,
+      "sma": 88581870,
+      "total": 274129727
+    }
+  },
+  {
+    "kode_pro": "51",
+    "kode_kab": "5102",
+    "nama_kabupaten": "TABANAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 6,
+      "sma": 2,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31447216,
+      "sd": 138674205,
+      "smp": 89690088,
+      "sma": 34848804,
+      "total": 294660313
+    }
+  },
+  {
+    "kode_pro": "51",
+    "kode_kab": "5103",
+    "nama_kabupaten": "BADUNG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 6,
+      "sma": 4,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 42919914,
+      "sd": 87643044,
+      "smp": 87140664,
+      "sma": 63593696,
+      "total": 281297318
+    }
+  },
+  {
+    "kode_pro": "51",
+    "kode_kab": "5104",
+    "nama_kabupaten": "GIANYAR",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 6,
+      "sma": 3,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34981506,
+      "sd": 168556090,
+      "smp": 101876706,
+      "sma": 50756646,
+      "total": 356170948
+    }
+  },
+  {
+    "kode_pro": "51",
+    "kode_kab": "5105",
+    "nama_kabupaten": "KLUNGKUNG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 4,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 49390422,
+      "sd": 144702486,
+      "smp": 62749060,
+      "sma": 89662116,
+      "total": 346504084
+    }
+  },
+  {
+    "kode_pro": "51",
+    "kode_kab": "5106",
+    "nama_kabupaten": "BANGLI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 4,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 33698784,
+      "sd": 137251917,
+      "smp": 75848092,
+      "sma": 45082092,
+      "total": 291880885
+    }
+  },
+  {
+    "kode_pro": "51",
+    "kode_kab": "5107",
+    "nama_kabupaten": "KARANGASEM",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 6,
+      "sma": 2,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32350388,
+      "sd": 125858551,
+      "smp": 89683176,
+      "sma": 37390340,
+      "total": 285282455
+    }
+  },
+  {
+    "kode_pro": "51",
+    "kode_kab": "5108",
+    "nama_kabupaten": "BULELENG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 3,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14665879,
+      "sd": 140659281,
+      "smp": 51794439,
+      "sma": 70884796,
+      "total": 278004395
+    }
+  },
+  {
+    "kode_pro": "51",
+    "kode_kab": "5171",
+    "nama_kabupaten": "KOTA DENPASAR",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 3,
+      "sma": 6,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 43714059,
+      "sd": 135147304,
+      "smp": 44531934,
+      "sma": 84453204,
+      "total": 307846501
+    }
+  },
+  {
+    "kode_pro": "52",
+    "kode_kab": "5201",
+    "nama_kabupaten": "LOMBOK BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 6,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18804927,
+      "sd": 131484440,
+      "smp": 96555234,
+      "sma": 83338565,
+      "total": 330183166
+    }
+  },
+  {
+    "kode_pro": "52",
+    "kode_kab": "5202",
+    "nama_kabupaten": "LOMBOK TENGAH",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 5,
+      "sma": 5,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17773180,
+      "sd": 163183630,
+      "smp": 76861955,
+      "sma": 93621040,
+      "total": 351439805
+    }
+  },
+  {
+    "kode_pro": "52",
+    "kode_kab": "5203",
+    "nama_kabupaten": "LOMBOK TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 6,
+      "sma": 6,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29862512,
+      "sd": 127390419,
+      "smp": 85442598,
+      "sma": 98125596,
+      "total": 340821125
+    }
+  },
+  {
+    "kode_pro": "52",
+    "kode_kab": "5204",
+    "nama_kabupaten": "SUMBAWA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 4,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29696682,
+      "sd": 170122077,
+      "smp": 63851312,
+      "sma": 44372304,
+      "total": 308042375
+    }
+  },
+  {
+    "kode_pro": "52",
+    "kode_kab": "5205",
+    "nama_kabupaten": "DOMPU",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 5,
+      "sma": 2,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 35054482,
+      "sd": 85170420,
+      "smp": 91343045,
+      "sma": 31187626,
+      "total": 242755573
+    }
+  },
+  {
+    "kode_pro": "52",
+    "kode_kab": "5206",
+    "nama_kabupaten": "BIMA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 5,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18849275,
+      "sd": 117328652,
+      "smp": 84469585,
+      "sma": 71424400,
+      "total": 292071912
+    }
+  },
+  {
+    "kode_pro": "52",
+    "kode_kab": "5207",
+    "nama_kabupaten": "SUMBAWA BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 4,
+      "sma": 3,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18244837,
+      "sd": 139525368,
+      "smp": 63351692,
+      "sma": 55518948,
+      "total": 276640845
+    }
+  },
+  {
+    "kode_pro": "52",
+    "kode_kab": "5208",
+    "nama_kabupaten": "LOMBOK UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 6,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 35670256,
+      "sd": 131861296,
+      "smp": 105970284,
+      "sma": 107630226,
+      "total": 381132062
+    }
+  },
+  {
+    "kode_pro": "52",
+    "kode_kab": "5271",
+    "nama_kabupaten": "KOTA MATARAM",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 5,
+      "sma": 6,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31113774,
+      "sd": 102985582,
+      "smp": 89047970,
+      "sma": 98133870,
+      "total": 321281196
+    }
+  },
+  {
+    "kode_pro": "52",
+    "kode_kab": "5272",
+    "nama_kabupaten": "KOTA BIMA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 5,
+      "sma": 5,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15962870,
+      "sd": 126136780,
+      "smp": 83678670,
+      "sma": 82614590,
+      "total": 308392910
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5301",
+    "nama_kabupaten": "KUPANG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 4,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 49706619,
+      "sd": 145252024,
+      "smp": 73123400,
+      "sma": 55282395,
+      "total": 323364438
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5302",
+    "nama_kabupaten": "TIMOR TENGAH SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 3,
+      "sma": 3,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15595250,
+      "sd": 138423128,
+      "smp": 49097958,
+      "sma": 48433503,
+      "total": 251549839
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5303",
+    "nama_kabupaten": "TIMOR TENGAH UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 5,
+      "sma": 6,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34227916,
+      "sd": 111997984,
+      "smp": 78552075,
+      "sma": 91804134,
+      "total": 316582109
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5304",
+    "nama_kabupaten": "BELU",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 4,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 54698028,
+      "sd": 120184778,
+      "smp": 69527820,
+      "sma": 72634195,
+      "total": 317044821
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5305",
+    "nama_kabupaten": "ALOR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 6,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16330598,
+      "sd": 119836514,
+      "smp": 97235322,
+      "sma": 55155501,
+      "total": 288557935
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5306",
+    "nama_kabupaten": "FLORES TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 5,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14597598,
+      "sd": 182364850,
+      "smp": 70497365,
+      "sma": 99223272,
+      "total": 366683085
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5307",
+    "nama_kabupaten": "SIKKA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 4,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18515052,
+      "sd": 140699988,
+      "smp": 68058712,
+      "sma": 73453208,
+      "total": 300726960
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5308",
+    "nama_kabupaten": "ENDE",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 3,
+      "sma": 5,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 50927748,
+      "sd": 102578203,
+      "smp": 49826991,
+      "sma": 77520315,
+      "total": 280853257
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5309",
+    "nama_kabupaten": "NGADA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 5,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 44732211,
+      "sd": 131806934,
+      "smp": 90124990,
+      "sma": 53161173,
+      "total": 319825308
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5310",
+    "nama_kabupaten": "MANGGARAI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 4,
+      "sma": 6,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29056852,
+      "sd": 89234436,
+      "smp": 61148280,
+      "sma": 106228518,
+      "total": 285668086
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5311",
+    "nama_kabupaten": "SUMBA TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 3,
+      "sma": 4,
+      "total": 10
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16781748,
+      "sd": 90661698,
+      "smp": 47212689,
+      "sma": 62020952,
+      "total": 216677087
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5312",
+    "nama_kabupaten": "SUMBA BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 6,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17434664,
+      "sd": 84902340,
+      "smp": 107036238,
+      "sma": 71368256,
+      "total": 280741498
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5313",
+    "nama_kabupaten": "LEMBATA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 6,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17962407,
+      "sd": 124714712,
+      "smp": 86349084,
+      "sma": 87269280,
+      "total": 316295483
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5314",
+    "nama_kabupaten": "ROTE NDAO",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 4,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 36184684,
+      "sd": 146480984,
+      "smp": 64521200,
+      "sma": 62726868,
+      "total": 309913736
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5315",
+    "nama_kabupaten": "MANGGARAI BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 6,
+      "sma": 5,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17771686,
+      "sd": 100969044,
+      "smp": 97852452,
+      "sma": 73288420,
+      "total": 289881602
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5316",
+    "nama_kabupaten": "NAGEKEO",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 4,
+      "sma": 6,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 49927134,
+      "sd": 89432202,
+      "smp": 63779312,
+      "sma": 95577024,
+      "total": 298715672
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5317",
+    "nama_kabupaten": "SUMBA TENGAH",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 5,
+      "sma": 2,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 42433173,
+      "sd": 116545816,
+      "smp": 76855865,
+      "sma": 29909022,
+      "total": 265743876
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5318",
+    "nama_kabupaten": "SUMBA BARAT DAYA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 6,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15505450,
+      "sd": 126329553,
+      "smp": 93873174,
+      "sma": 94013215,
+      "total": 329721392
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5319",
+    "nama_kabupaten": "MANGGARAI TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 5,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 33114366,
+      "sd": 139885184,
+      "smp": 82134970,
+      "sma": 56157978,
+      "total": 311292498
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5320",
+    "nama_kabupaten": "SABU RAIJUA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 6,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 33270544,
+      "sd": 108232040,
+      "smp": 98839494,
+      "sma": 103580862,
+      "total": 343922940
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5321",
+    "nama_kabupaten": "MALAKA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 5,
+      "sma": 6,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 42048300,
+      "sd": 141650140,
+      "smp": 84898150,
+      "sma": 107044356,
+      "total": 375640946
+    }
+  },
+  {
+    "kode_pro": "53",
+    "kode_kab": "5371",
+    "nama_kabupaten": "KOTA KUPANG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 3,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 56071434,
+      "sd": 121776928,
+      "smp": 50161614,
+      "sma": 67800476,
+      "total": 295810452
+    }
+  },
+  {
+    "kode_pro": "61",
+    "kode_kab": "6101",
+    "nama_kabupaten": "SAMBAS",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 6,
+      "sma": 3,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 44566122,
+      "sd": 169314246,
+      "smp": 99576090,
+      "sma": 46007409,
+      "total": 359463867
+    }
+  },
+  {
+    "kode_pro": "61",
+    "kode_kab": "6102",
+    "nama_kabupaten": "MEMPAWAH",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 4,
+      "sma": 5,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16541082,
+      "sd": 97752372,
+      "smp": 58496536,
+      "sma": 94526475,
+      "total": 267316465
+    }
+  },
+  {
+    "kode_pro": "61",
+    "kode_kab": "6103",
+    "nama_kabupaten": "SANGGAU",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 6,
+      "sma": 2,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15130802,
+      "sd": 87767052,
+      "smp": 112917864,
+      "sma": 31594424,
+      "total": 247410142
+    }
+  },
+  {
+    "kode_pro": "61",
+    "kode_kab": "6104",
+    "nama_kabupaten": "KETAPANG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 4,
+      "sma": 5,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14800269,
+      "sd": 121185416,
+      "smp": 74915576,
+      "sma": 86159990,
+      "total": 297061251
+    }
+  },
+  {
+    "kode_pro": "61",
+    "kode_kab": "6105",
+    "nama_kabupaten": "SINTANG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 4,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32068504,
+      "sd": 132127478,
+      "smp": 70590460,
+      "sma": 75175720,
+      "total": 309962162
+    }
+  },
+  {
+    "kode_pro": "61",
+    "kode_kab": "6106",
+    "nama_kabupaten": "KAPUAS HULU",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 6,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 56888298,
+      "sd": 99227064,
+      "smp": 96900102,
+      "sma": 70241545,
+      "total": 323257009
+    }
+  },
+  {
+    "kode_pro": "61",
+    "kode_kab": "6107",
+    "nama_kabupaten": "BENGKAYANG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 6,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 33215410,
+      "sd": 98331606,
+      "smp": 107018574,
+      "sma": 68772592,
+      "total": 307338182
+    }
+  },
+  {
+    "kode_pro": "61",
+    "kode_kab": "6108",
+    "nama_kabupaten": "LANDAK",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 6,
+      "sma": 3,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 42876420,
+      "sd": 127609867,
+      "smp": 90275430,
+      "sma": 54072048,
+      "total": 314833765
+    }
+  },
+  {
+    "kode_pro": "61",
+    "kode_kab": "6109",
+    "nama_kabupaten": "SEKADAU",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 3,
+      "sma": 3,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14164793,
+      "sd": 115836392,
+      "smp": 52649811,
+      "sma": 45216318,
+      "total": 227867314
+    }
+  },
+  {
+    "kode_pro": "61",
+    "kode_kab": "6110",
+    "nama_kabupaten": "MELAWI",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 3,
+      "sma": 2,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18659577,
+      "sd": 121963471,
+      "smp": 42393654,
+      "sma": 36800072,
+      "total": 219816774
+    }
+  },
+  {
+    "kode_pro": "61",
+    "kode_kab": "6111",
+    "nama_kabupaten": "KAYONG UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 3,
+      "sma": 5,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16877874,
+      "sd": 156699846,
+      "smp": 53803794,
+      "sma": 73960025,
+      "total": 301341539
+    }
+  },
+  {
+    "kode_pro": "61",
+    "kode_kab": "6112",
+    "nama_kabupaten": "KUBU RAYA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 6,
+      "sma": 2,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34567634,
+      "sd": 181019600,
+      "smp": 100516632,
+      "sma": 34511558,
+      "total": 350615424
+    }
+  },
+  {
+    "kode_pro": "61",
+    "kode_kab": "6171",
+    "nama_kabupaten": "KOTA PONTIANAK",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 6,
+      "sma": 5,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 45460131,
+      "sd": 126487249,
+      "smp": 85196610,
+      "sma": 93630750,
+      "total": 350774740
+    }
+  },
+  {
+    "kode_pro": "61",
+    "kode_kab": "6172",
+    "nama_kabupaten": "KOTA SINGKAWANG",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 3,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18466893,
+      "sd": 182146140,
+      "smp": 46428102,
+      "sma": 35428456,
+      "total": 282469591
+    }
+  },
+  {
+    "kode_pro": "62",
+    "kode_kab": "6201",
+    "nama_kabupaten": "KOTAWARINGIN BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 4,
+      "sma": 6,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 46619133,
+      "sd": 132767411,
+      "smp": 64747000,
+      "sma": 86149476,
+      "total": 330283020
+    }
+  },
+  {
+    "kode_pro": "62",
+    "kode_kab": "6202",
+    "nama_kabupaten": "KOTAWARINGIN TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 4,
+      "sma": 6,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16735637,
+      "sd": 129341943,
+      "smp": 73185152,
+      "sma": 88655400,
+      "total": 307918132
+    }
+  },
+  {
+    "kode_pro": "62",
+    "kode_kab": "6203",
+    "nama_kabupaten": "KAPUAS",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 6,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28733426,
+      "sd": 95705856,
+      "smp": 86420166,
+      "sma": 69124860,
+      "total": 279984308
+    }
+  },
+  {
+    "kode_pro": "62",
+    "kode_kab": "6204",
+    "nama_kabupaten": "BARITO SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 5,
+      "sma": 2,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15840452,
+      "sd": 143306910,
+      "smp": 92347430,
+      "sma": 36508296,
+      "total": 288003088
+    }
+  },
+  {
+    "kode_pro": "62",
+    "kode_kab": "6205",
+    "nama_kabupaten": "BARITO UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 3,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 42739341,
+      "sd": 123181640,
+      "smp": 47421000,
+      "sma": 37137296,
+      "total": 250479277
+    }
+  },
+  {
+    "kode_pro": "62",
+    "kode_kab": "6206",
+    "nama_kabupaten": "KATINGAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 5,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 52232181,
+      "sd": 93419166,
+      "smp": 93731795,
+      "sma": 72890820,
+      "total": 312273962
+    }
+  },
+  {
+    "kode_pro": "62",
+    "kode_kab": "6207",
+    "nama_kabupaten": "SERUYAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 6,
+      "sma": 3,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34940972,
+      "sd": 162991000,
+      "smp": 98505180,
+      "sma": 55923468,
+      "total": 352360620
+    }
+  },
+  {
+    "kode_pro": "62",
+    "kode_kab": "6208",
+    "nama_kabupaten": "SUKAMARA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 3,
+      "sma": 2,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34383772,
+      "sd": 134728208,
+      "smp": 51743601,
+      "sma": 28884544,
+      "total": 249740125
+    }
+  },
+  {
+    "kode_pro": "62",
+    "kode_kab": "6209",
+    "nama_kabupaten": "LAMANDAU",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 3,
+      "sma": 3,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 30631940,
+      "sd": 95720502,
+      "smp": 49315341,
+      "sma": 42000750,
+      "total": 217668533
+    }
+  },
+  {
+    "kode_pro": "62",
+    "kode_kab": "6210",
+    "nama_kabupaten": "GUNUNG MAS",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 4,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29040668,
+      "sd": 129661092,
+      "smp": 70610456,
+      "sma": 92259220,
+      "total": 321571436
+    }
+  },
+  {
+    "kode_pro": "62",
+    "kode_kab": "6211",
+    "nama_kabupaten": "PULANG PISAU",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 4,
+      "sma": 4,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17097328,
+      "sd": 98685768,
+      "smp": 71459284,
+      "sma": 66585216,
+      "total": 253827596
+    }
+  },
+  {
+    "kode_pro": "62",
+    "kode_kab": "6212",
+    "nama_kabupaten": "MURUNG RAYA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 4,
+      "sma": 6,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 35084688,
+      "sd": 102878892,
+      "smp": 62691900,
+      "sma": 86034774,
+      "total": 286690254
+    }
+  },
+  {
+    "kode_pro": "62",
+    "kode_kab": "6213",
+    "nama_kabupaten": "BARITO TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 6,
+      "sma": 2,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17102039,
+      "sd": 145528392,
+      "smp": 89055972,
+      "sma": 37366624,
+      "total": 289053027
+    }
+  },
+  {
+    "kode_pro": "62",
+    "kode_kab": "6271",
+    "nama_kabupaten": "KOTA PALANGKARAYA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 5,
+      "sma": 5,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 48923127,
+      "sd": 149052942,
+      "smp": 71392895,
+      "sma": 76737700,
+      "total": 346106664
+    }
+  },
+  {
+    "kode_pro": "63",
+    "kode_kab": "6301",
+    "nama_kabupaten": "TANAH LAUT",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 5,
+      "sma": 5,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 53624043,
+      "sd": 128184327,
+      "smp": 85034225,
+      "sma": 73734795,
+      "total": 340577390
+    }
+  },
+  {
+    "kode_pro": "63",
+    "kode_kab": "6302",
+    "nama_kabupaten": "KOTABARU",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 5,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34631800,
+      "sd": 131256944,
+      "smp": 72479700,
+      "sma": 103993086,
+      "total": 342361530
+    }
+  },
+  {
+    "kode_pro": "63",
+    "kode_kab": "6303",
+    "nama_kabupaten": "BANJAR",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 4,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 53199837,
+      "sd": 132067936,
+      "smp": 61888256,
+      "sma": 88898855,
+      "total": 336054884
+    }
+  },
+  {
+    "kode_pro": "63",
+    "kode_kab": "6304",
+    "nama_kabupaten": "BARITO KUALA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 3,
+      "sma": 3,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28947058,
+      "sd": 111828451,
+      "smp": 56860074,
+      "sma": 42087369,
+      "total": 239722952
+    }
+  },
+  {
+    "kode_pro": "63",
+    "kode_kab": "6305",
+    "nama_kabupaten": "TAPIN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 3,
+      "sma": 6,
+      "total": 10
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16383790,
+      "sd": 103509762,
+      "smp": 48821364,
+      "sma": 89604468,
+      "total": 258319384
+    }
+  },
+  {
+    "kode_pro": "63",
+    "kode_kab": "6306",
+    "nama_kabupaten": "HULU SUNGAI SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 6,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17871337,
+      "sd": 145475672,
+      "smp": 97745346,
+      "sma": 47134854,
+      "total": 308227209
+    }
+  },
+  {
+    "kode_pro": "63",
+    "kode_kab": "6307",
+    "nama_kabupaten": "HULU SUNGAI TENGAH",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 3,
+      "sma": 3,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 43683543,
+      "sd": 153399170,
+      "smp": 46200729,
+      "sma": 47423556,
+      "total": 290706998
+    }
+  },
+  {
+    "kode_pro": "63",
+    "kode_kab": "6308",
+    "nama_kabupaten": "HULU SUNGAI UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 5,
+      "sma": 5,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28983750,
+      "sd": 111051744,
+      "smp": 73025000,
+      "sma": 89162670,
+      "total": 302223164
+    }
+  },
+  {
+    "kode_pro": "63",
+    "kode_kab": "6309",
+    "nama_kabupaten": "TABALONG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 4,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29230224,
+      "sd": 142230864,
+      "smp": 69273668,
+      "sma": 83161800,
+      "total": 323896556
+    }
+  },
+  {
+    "kode_pro": "63",
+    "kode_kab": "6310",
+    "nama_kabupaten": "TANAH BUMBU",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 3,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14057333,
+      "sd": 143821690,
+      "smp": 51038577,
+      "sma": 70695360,
+      "total": 279612960
+    }
+  },
+  {
+    "kode_pro": "63",
+    "kode_kab": "6311",
+    "nama_kabupaten": "BALANGAN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 4,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14936944,
+      "sd": 168058710,
+      "smp": 62847444,
+      "sma": 113174616,
+      "total": 359017714
+    }
+  },
+  {
+    "kode_pro": "63",
+    "kode_kab": "6371",
+    "nama_kabupaten": "KOTA BANJARMASIN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 5,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31907540,
+      "sd": 145023516,
+      "smp": 75866605,
+      "sma": 109178112,
+      "total": 361975773
+    }
+  },
+  {
+    "kode_pro": "63",
+    "kode_kab": "6372",
+    "nama_kabupaten": "KOTA BANJARBARU",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 5,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16696515,
+      "sd": 150469072,
+      "smp": 85643300,
+      "sma": 59644064,
+      "total": 312452951
+    }
+  },
+  {
+    "kode_pro": "64",
+    "kode_kab": "6401",
+    "nama_kabupaten": "PASER",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 3,
+      "sma": 6,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28087362,
+      "sd": 133058358,
+      "smp": 44201772,
+      "sma": 89070246,
+      "total": 294417738
+    }
+  },
+  {
+    "kode_pro": "64",
+    "kode_kab": "6402",
+    "nama_kabupaten": "KUTAI KARTANEGARA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 5,
+      "sma": 4,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 33577746,
+      "sd": 133995392,
+      "smp": 82602685,
+      "sma": 70328516,
+      "total": 320504339
+    }
+  },
+  {
+    "kode_pro": "64",
+    "kode_kab": "6403",
+    "nama_kabupaten": "BERAU",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 5,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 42804402,
+      "sd": 107268702,
+      "smp": 81922690,
+      "sma": 63613548,
+      "total": 295609342
+    }
+  },
+  {
+    "kode_pro": "64",
+    "kode_kab": "6407",
+    "nama_kabupaten": "KUTAI BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 6,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18819017,
+      "sd": 107141934,
+      "smp": 86043714,
+      "sma": 65240220,
+      "total": 277244885
+    }
+  },
+  {
+    "kode_pro": "64",
+    "kode_kab": "6408",
+    "nama_kabupaten": "KUTAI TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 6,
+      "sma": 2,
+      "total": 19
+    },
+    "anggaran_revitalisasi": {
+      "paud": 53155515,
+      "sd": 154934980,
+      "smp": 98819490,
+      "sma": 37886970,
+      "total": 344796955
+    }
+  },
+  {
+    "kode_pro": "64",
+    "kode_kab": "6409",
+    "nama_kabupaten": "PENAJAM PASER UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 5,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14370112,
+      "sd": 139947896,
+      "smp": 92475165,
+      "sma": 42197490,
+      "total": 288990663
+    }
+  },
+  {
+    "kode_pro": "64",
+    "kode_kab": "6411",
+    "nama_kabupaten": "MAHAKAM ULU",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 5,
+      "sma": 5,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 36375368,
+      "sd": 140300430,
+      "smp": 91780770,
+      "sma": 74624125,
+      "total": 343080693
+    }
+  },
+  {
+    "kode_pro": "64",
+    "kode_kab": "6471",
+    "nama_kabupaten": "KOTA BALIKPAPAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 4,
+      "sma": 3,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 37627512,
+      "sd": 107863742,
+      "smp": 71057980,
+      "sma": 45732399,
+      "total": 262281633
+    }
+  },
+  {
+    "kode_pro": "64",
+    "kode_kab": "6472",
+    "nama_kabupaten": "KOTA SAMARINDA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 4,
+      "sma": 2,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 48619824,
+      "sd": 143680720,
+      "smp": 60244304,
+      "sma": 31703452,
+      "total": 284248300
+    }
+  },
+  {
+    "kode_pro": "64",
+    "kode_kab": "6474",
+    "nama_kabupaten": "KOTA BONTANG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 3,
+      "sma": 2,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 36902902,
+      "sd": 94419462,
+      "smp": 45304014,
+      "sma": 30899762,
+      "total": 207526140
+    }
+  },
+  {
+    "kode_pro": "65",
+    "kode_kab": "6501",
+    "nama_kabupaten": "BULUNGAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 3,
+      "sma": 3,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32109856,
+      "sd": 130828808,
+      "smp": 53655279,
+      "sma": 56797530,
+      "total": 273391473
+    }
+  },
+  {
+    "kode_pro": "65",
+    "kode_kab": "6502",
+    "nama_kabupaten": "MALINAU",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 4,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32648170,
+      "sd": 162036670,
+      "smp": 69768984,
+      "sma": 93565638,
+      "total": 358019462
+    }
+  },
+  {
+    "kode_pro": "65",
+    "kode_kab": "6503",
+    "nama_kabupaten": "NUNUKAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 6,
+      "sma": 3,
+      "total": 19
+    },
+    "anggaran_revitalisasi": {
+      "paud": 52371831,
+      "sd": 161139660,
+      "smp": 89209026,
+      "sma": 54278310,
+      "total": 356998827
+    }
+  },
+  {
+    "kode_pro": "65",
+    "kode_kab": "6504",
+    "nama_kabupaten": "TANA TIDUNG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 5,
+      "sma": 5,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 54258888,
+      "sd": 163160780,
+      "smp": 82455700,
+      "sma": 89149585,
+      "total": 389024953
+    }
+  },
+  {
+    "kode_pro": "65",
+    "kode_kab": "6571",
+    "nama_kabupaten": "KOTA TARAKAN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 3,
+      "sma": 4,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14447140,
+      "sd": 115352936,
+      "smp": 53292402,
+      "sma": 73369744,
+      "total": 256462222
+    }
+  },
+  {
+    "kode_pro": "71",
+    "kode_kab": "7101",
+    "nama_kabupaten": "BOLAANG MONGONDOW",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 6,
+      "sma": 2,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14438744,
+      "sd": 117242664,
+      "smp": 89740626,
+      "sma": 36124438,
+      "total": 257546472
+    }
+  },
+  {
+    "kode_pro": "71",
+    "kode_kab": "7102",
+    "nama_kabupaten": "MINAHASA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 4,
+      "sma": 5,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 36436492,
+      "sd": 106805988,
+      "smp": 57966732,
+      "sma": 87459670,
+      "total": 288668882
+    }
+  },
+  {
+    "kode_pro": "71",
+    "kode_kab": "7103",
+    "nama_kabupaten": "KEPULAUAN SANGIHE",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 5,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 43748658,
+      "sd": 149809056,
+      "smp": 93597005,
+      "sma": 98432388,
+      "total": 385587107
+    }
+  },
+  {
+    "kode_pro": "71",
+    "kode_kab": "7104",
+    "nama_kabupaten": "KEPULAUAN TALAUD",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 4,
+      "sma": 5,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29089162,
+      "sd": 111591180,
+      "smp": 73967800,
+      "sma": 74566270,
+      "total": 289214412
+    }
+  },
+  {
+    "kode_pro": "71",
+    "kode_kab": "7105",
+    "nama_kabupaten": "MINAHASA SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 4,
+      "sma": 6,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15270945,
+      "sd": 125366248,
+      "smp": 60456180,
+      "sma": 113027178,
+      "total": 314120551
+    }
+  },
+  {
+    "kode_pro": "71",
+    "kode_kab": "7106",
+    "nama_kabupaten": "MINAHASA UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 5,
+      "sma": 2,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18352470,
+      "sd": 118257293,
+      "smp": 80094935,
+      "sma": 29083656,
+      "total": 245788354
+    }
+  },
+  {
+    "kode_pro": "71",
+    "kode_kab": "7107",
+    "nama_kabupaten": "MINAHASA TENGGARA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 4,
+      "sma": 4,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 46484727,
+      "sd": 147837160,
+      "smp": 68704716,
+      "sma": 58240976,
+      "total": 321267579
+    }
+  },
+  {
+    "kode_pro": "71",
+    "kode_kab": "7108",
+    "nama_kabupaten": "BOLAANG MONGONDOW UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 4,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 45762912,
+      "sd": 112223146,
+      "smp": 67201764,
+      "sma": 62991464,
+      "total": 288179286
+    }
+  },
+  {
+    "kode_pro": "71",
+    "kode_kab": "7109",
+    "nama_kabupaten": "KEP. SIAU TAGULANDANG BIARO",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 5,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18673231,
+      "sd": 156454209,
+      "smp": 94715295,
+      "sma": 46452777,
+      "total": 316295512
+    }
+  },
+  {
+    "kode_pro": "71",
+    "kode_kab": "7110",
+    "nama_kabupaten": "BOLAANG MONGONDOW TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 3,
+      "sma": 5,
+      "total": 10
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18806184,
+      "sd": 86262240,
+      "smp": 56035866,
+      "sma": 80065090,
+      "total": 241169380
+    }
+  },
+  {
+    "kode_pro": "71",
+    "kode_kab": "7111",
+    "nama_kabupaten": "BOLAANG MONGONDOW SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 3,
+      "sma": 2,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 55660545,
+      "sd": 105598056,
+      "smp": 50607399,
+      "sma": 35017048,
+      "total": 246883048
+    }
+  },
+  {
+    "kode_pro": "71",
+    "kode_kab": "7171",
+    "nama_kabupaten": "KOTA MANADO",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 3,
+      "sma": 4,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 56598222,
+      "sd": 172457840,
+      "smp": 51440496,
+      "sma": 65442840,
+      "total": 345939398
+    }
+  },
+  {
+    "kode_pro": "71",
+    "kode_kab": "7172",
+    "nama_kabupaten": "KOTA BITUNG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 4,
+      "sma": 2,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 35073074,
+      "sd": 97533870,
+      "smp": 67549072,
+      "sma": 32999656,
+      "total": 233155672
+    }
+  },
+  {
+    "kode_pro": "71",
+    "kode_kab": "7173",
+    "nama_kabupaten": "KOTA TOMOHON",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 5,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34717076,
+      "sd": 147303824,
+      "smp": 83782710,
+      "sma": 100726314,
+      "total": 366529924
+    }
+  },
+  {
+    "kode_pro": "71",
+    "kode_kab": "7174",
+    "nama_kabupaten": "KOTA KOTAMOBAGU",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 3,
+      "sma": 4,
+      "total": 10
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17575482,
+      "sd": 88911030,
+      "smp": 43278669,
+      "sma": 63141660,
+      "total": 212906841
+    }
+  },
+  {
+    "kode_pro": "72",
+    "kode_kab": "7201",
+    "nama_kabupaten": "BANGGAI",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 6,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 53075835,
+      "sd": 128335865,
+      "smp": 90406020,
+      "sma": 111107190,
+      "total": 382924910
+    }
+  },
+  {
+    "kode_pro": "72",
+    "kode_kab": "7202",
+    "nama_kabupaten": "POSO",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 3,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 36987186,
+      "sd": 134995905,
+      "smp": 49815480,
+      "sma": 45396930,
+      "total": 267195501
+    }
+  },
+  {
+    "kode_pro": "72",
+    "kode_kab": "7203",
+    "nama_kabupaten": "DONGGALA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 5,
+      "sma": 3,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 31220066,
+      "sd": 137245194,
+      "smp": 82891935,
+      "sma": 48303405,
+      "total": 299660600
+    }
+  },
+  {
+    "kode_pro": "72",
+    "kode_kab": "7204",
+    "nama_kabupaten": "TOLI TOLI",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 4,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15200065,
+      "sd": 159687410,
+      "smp": 72507268,
+      "sma": 104554578,
+      "total": 351949321
+    }
+  },
+  {
+    "kode_pro": "72",
+    "kode_kab": "7205",
+    "nama_kabupaten": "BUOL",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 5,
+      "sma": 6,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32878896,
+      "sd": 169410210,
+      "smp": 93259040,
+      "sma": 97231944,
+      "total": 392780090
+    }
+  },
+  {
+    "kode_pro": "72",
+    "kode_kab": "7206",
+    "nama_kabupaten": "MOROWALI",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 5,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 46998354,
+      "sd": 106436883,
+      "smp": 89854520,
+      "sma": 84077550,
+      "total": 327367307
+    }
+  },
+  {
+    "kode_pro": "72",
+    "kode_kab": "7207",
+    "nama_kabupaten": "BANGGAI KEPULAUAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 4,
+      "sma": 3,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34467614,
+      "sd": 101254209,
+      "smp": 63169868,
+      "sma": 45757098,
+      "total": 244648789
+    }
+  },
+  {
+    "kode_pro": "72",
+    "kode_kab": "7208",
+    "nama_kabupaten": "PARIGI MOUTONG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 5,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34070420,
+      "sd": 106487780,
+      "smp": 70872695,
+      "sma": 53709603,
+      "total": 265140498
+    }
+  },
+  {
+    "kode_pro": "72",
+    "kode_kab": "7209",
+    "nama_kabupaten": "TOJO UNA UNA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 6,
+      "sma": 2,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15183193,
+      "sd": 165082350,
+      "smp": 97309830,
+      "sma": 28527268,
+      "total": 306102641
+    }
+  },
+  {
+    "kode_pro": "72",
+    "kode_kab": "7210",
+    "nama_kabupaten": "SIGI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 3,
+      "sma": 2,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32079540,
+      "sd": 125817825,
+      "smp": 47570433,
+      "sma": 36330504,
+      "total": 241798302
+    }
+  },
+  {
+    "kode_pro": "72",
+    "kode_kab": "7211",
+    "nama_kabupaten": "BANGGAI LAUT",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 6,
+      "sma": 4,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17152271,
+      "sd": 166959675,
+      "smp": 96075984,
+      "sma": 68416000,
+      "total": 348603930
+    }
+  },
+  {
+    "kode_pro": "72",
+    "kode_kab": "7212",
+    "nama_kabupaten": "MOROWALI UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 5,
+      "sma": 5,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32467718,
+      "sd": 91868478,
+      "smp": 75031865,
+      "sma": 87138775,
+      "total": 286506836
+    }
+  },
+  {
+    "kode_pro": "72",
+    "kode_kab": "7271",
+    "nama_kabupaten": "KOTA PALU",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 3,
+      "sma": 2,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 42024006,
+      "sd": 138653325,
+      "smp": 56181150,
+      "sma": 36343814,
+      "total": 273202295
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7301",
+    "nama_kabupaten": "KEPULAUAN SELAYAR",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 5,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 33038110,
+      "sd": 131693152,
+      "smp": 73536790,
+      "sma": 76260880,
+      "total": 314528932
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7302",
+    "nama_kabupaten": "BULUKUMBA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 5,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14035598,
+      "sd": 164469231,
+      "smp": 74256070,
+      "sma": 91985915,
+      "total": 344746814
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7303",
+    "nama_kabupaten": "BANTAENG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 5,
+      "sma": 5,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 35177480,
+      "sd": 158681840,
+      "smp": 73673755,
+      "sma": 80472980,
+      "total": 348006055
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7304",
+    "nama_kabupaten": "JENEPONTO",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 5,
+      "sma": 5,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32657754,
+      "sd": 168778840,
+      "smp": 87813370,
+      "sma": 85829345,
+      "total": 375079309
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7305",
+    "nama_kabupaten": "TAKALAR",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 4,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 52278738,
+      "sd": 140357000,
+      "smp": 61061572,
+      "sma": 51916125,
+      "total": 305613435
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7306",
+    "nama_kabupaten": "GOWA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 4,
+      "sma": 4,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 50421003,
+      "sd": 141294350,
+      "smp": 61882708,
+      "sma": 66804928,
+      "total": 320402989
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7307",
+    "nama_kabupaten": "SINJAI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 4,
+      "sma": 2,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34750794,
+      "sd": 173513680,
+      "smp": 67776512,
+      "sma": 29817368,
+      "total": 305858354
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7308",
+    "nama_kabupaten": "BONE",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 4,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 46856028,
+      "sd": 113531586,
+      "smp": 65579528,
+      "sma": 72365355,
+      "total": 298332497
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7309",
+    "nama_kabupaten": "MAROS",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 5,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 45834873,
+      "sd": 100536282,
+      "smp": 71074260,
+      "sma": 43582941,
+      "total": 261028356
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7310",
+    "nama_kabupaten": "PANGKAJENE KEPULAUAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 5,
+      "sma": 6,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 52852809,
+      "sd": 106388676,
+      "smp": 94809115,
+      "sma": 91101930,
+      "total": 345152530
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7311",
+    "nama_kabupaten": "BARRU",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 6,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16269781,
+      "sd": 115273459,
+      "smp": 108327762,
+      "sma": 34010710,
+      "total": 273881712
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7312",
+    "nama_kabupaten": "SOPPENG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 6,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 35776008,
+      "sd": 88750914,
+      "smp": 94555404,
+      "sma": 51708579,
+      "total": 270790905
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7313",
+    "nama_kabupaten": "WAJO",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 4,
+      "sma": 6,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 36263634,
+      "sd": 99162560,
+      "smp": 61094300,
+      "sma": 113959146,
+      "total": 310479640
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7314",
+    "nama_kabupaten": "SIDENRENG RAPPANG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 6,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 35423082,
+      "sd": 88361364,
+      "smp": 101010732,
+      "sma": 71906400,
+      "total": 296701578
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7315",
+    "nama_kabupaten": "PINRANG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 4,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 56217309,
+      "sd": 105871367,
+      "smp": 74000000,
+      "sma": 31307390,
+      "total": 267396066
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7316",
+    "nama_kabupaten": "ENREKANG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 3,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 33128954,
+      "sd": 150905439,
+      "smp": 56322672,
+      "sma": 82376875,
+      "total": 322733940
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7317",
+    "nama_kabupaten": "LUWU",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 6,
+      "sma": 6,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34096242,
+      "sd": 148604301,
+      "smp": 91626600,
+      "sma": 101586672,
+      "total": 375913815
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7318",
+    "nama_kabupaten": "TANA TORAJA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 4,
+      "sma": 6,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14454153,
+      "sd": 127568406,
+      "smp": 66650944,
+      "sma": 100439364,
+      "total": 309112867
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7322",
+    "nama_kabupaten": "LUWU UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 4,
+      "sma": 4,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 43844445,
+      "sd": 145814373,
+      "smp": 67188492,
+      "sma": 60350724,
+      "total": 317198034
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7324",
+    "nama_kabupaten": "LUWU TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 5,
+      "sma": 4,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15903437,
+      "sd": 84607080,
+      "smp": 89680885,
+      "sma": 58160988,
+      "total": 248352390
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7326",
+    "nama_kabupaten": "TORAJA UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 5,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18374265,
+      "sd": 127118799,
+      "smp": 80493480,
+      "sma": 79607150,
+      "total": 305593694
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7371",
+    "nama_kabupaten": "KOTA MAKASSAR",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 5,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 30239748,
+      "sd": 127990856,
+      "smp": 88144380,
+      "sma": 28200412,
+      "total": 274575396
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7372",
+    "nama_kabupaten": "KOTA PARE PARE",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 4,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 49458948,
+      "sd": 114719626,
+      "smp": 72718344,
+      "sma": 51675066,
+      "total": 288571984
+    }
+  },
+  {
+    "kode_pro": "73",
+    "kode_kab": "7373",
+    "nama_kabupaten": "KOTA PALOPO",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 4,
+      "sma": 3,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 37101202,
+      "sd": 177876270,
+      "smp": 58369196,
+      "sma": 52893384,
+      "total": 326240052
+    }
+  },
+  {
+    "kode_pro": "74",
+    "kode_kab": "7401",
+    "nama_kabupaten": "KOLAKA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 3,
+      "sma": 6,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 37916694,
+      "sd": 116800061,
+      "smp": 42860169,
+      "sma": 106272120,
+      "total": 303849044
+    }
+  },
+  {
+    "kode_pro": "74",
+    "kode_kab": "7402",
+    "nama_kabupaten": "KONAWE",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 6,
+      "sma": 2,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 35883228,
+      "sd": 158703510,
+      "smp": 104873574,
+      "sma": 31503594,
+      "total": 330963906
+    }
+  },
+  {
+    "kode_pro": "74",
+    "kode_kab": "7403",
+    "nama_kabupaten": "MUNA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 5,
+      "sma": 4,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18517478,
+      "sd": 97860222,
+      "smp": 91144860,
+      "sma": 69768540,
+      "total": 277291100
+    }
+  },
+  {
+    "kode_pro": "74",
+    "kode_kab": "7404",
+    "nama_kabupaten": "BUTON",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 6,
+      "sma": 4,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18786073,
+      "sd": 129117472,
+      "smp": 101124102,
+      "sma": 64781732,
+      "total": 313809379
+    }
+  },
+  {
+    "kode_pro": "74",
+    "kode_kab": "7405",
+    "nama_kabupaten": "KONAWE SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 6,
+      "sma": 3,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15823185,
+      "sd": 92286828,
+      "smp": 99929454,
+      "sma": 46476039,
+      "total": 254515506
+    }
+  },
+  {
+    "kode_pro": "74",
+    "kode_kab": "7406",
+    "nama_kabupaten": "BOMBANA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 5,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 48263730,
+      "sd": 131405673,
+      "smp": 86496620,
+      "sma": 89915556,
+      "total": 356081579
+    }
+  },
+  {
+    "kode_pro": "74",
+    "kode_kab": "7407",
+    "nama_kabupaten": "WAKATOBI",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 5,
+      "sma": 3,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15919719,
+      "sd": 95303010,
+      "smp": 70976300,
+      "sma": 56394384,
+      "total": 238593413
+    }
+  },
+  {
+    "kode_pro": "74",
+    "kode_kab": "7408",
+    "nama_kabupaten": "KOLAKA UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 5,
+      "sma": 5,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14192457,
+      "sd": 104868516,
+      "smp": 90890540,
+      "sma": 83377855,
+      "total": 293329368
+    }
+  },
+  {
+    "kode_pro": "74",
+    "kode_kab": "7409",
+    "nama_kabupaten": "KONAWE UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 5,
+      "sma": 4,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29863590,
+      "sd": 148538280,
+      "smp": 84921415,
+      "sma": 62116368,
+      "total": 325439653
+    }
+  },
+  {
+    "kode_pro": "74",
+    "kode_kab": "7410",
+    "nama_kabupaten": "BUTON UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 3,
+      "sma": 2,
+      "total": 10
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17199638,
+      "sd": 99036594,
+      "smp": 52681794,
+      "sma": 36089384,
+      "total": 205007410
+    }
+  },
+  {
+    "kode_pro": "74",
+    "kode_kab": "7411",
+    "nama_kabupaten": "KOLAKA TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 5,
+      "sma": 2,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 53621577,
+      "sd": 159092210,
+      "smp": 78137195,
+      "sma": 33835008,
+      "total": 324685990
+    }
+  },
+  {
+    "kode_pro": "74",
+    "kode_kab": "7412",
+    "nama_kabupaten": "KONAWE KEPULAUAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 5,
+      "sma": 3,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 36119118,
+      "sd": 141983856,
+      "smp": 80680670,
+      "sma": 48233628,
+      "total": 307017272
+    }
+  },
+  {
+    "kode_pro": "74",
+    "kode_kab": "7413",
+    "nama_kabupaten": "MUNA BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 3,
+      "sma": 4,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 36641028,
+      "sd": 108860220,
+      "smp": 55910178,
+      "sma": 62786220,
+      "total": 264197646
+    }
+  },
+  {
+    "kode_pro": "74",
+    "kode_kab": "7414",
+    "nama_kabupaten": "BUTON TENGAH",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 4,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17691595,
+      "sd": 141503670,
+      "smp": 75338036,
+      "sma": 45062427,
+      "total": 279595728
+    }
+  },
+  {
+    "kode_pro": "74",
+    "kode_kab": "7415",
+    "nama_kabupaten": "BUTON SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 6,
+      "sma": 4,
+      "total": 19
+    },
+    "anggaran_revitalisasi": {
+      "paud": 53057913,
+      "sd": 179705800,
+      "smp": 92929692,
+      "sma": 74370928,
+      "total": 400064333
+    }
+  },
+  {
+    "kode_pro": "74",
+    "kode_kab": "7471",
+    "nama_kabupaten": "KOTA KENDARI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 6,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32414124,
+      "sd": 98340760,
+      "smp": 111117642,
+      "sma": 94931490,
+      "total": 336804016
+    }
+  },
+  {
+    "kode_pro": "74",
+    "kode_kab": "7472",
+    "nama_kabupaten": "KOTA BAU BAU",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 4,
+      "sma": 3,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17784380,
+      "sd": 143906968,
+      "smp": 75560244,
+      "sma": 45284196,
+      "total": 282535788
+    }
+  },
+  {
+    "kode_pro": "75",
+    "kode_kab": "7501",
+    "nama_kabupaten": "GORONTALO",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 5,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16790950,
+      "sd": 187335990,
+      "smp": 76665480,
+      "sma": 112454244,
+      "total": 393246664
+    }
+  },
+  {
+    "kode_pro": "75",
+    "kode_kab": "7502",
+    "nama_kabupaten": "BOALEMO",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 5,
+      "sma": 2,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 44761002,
+      "sd": 181500400,
+      "smp": 71627860,
+      "sma": 33055088,
+      "total": 330944350
+    }
+  },
+  {
+    "kode_pro": "75",
+    "kode_kab": "7503",
+    "nama_kabupaten": "BONE BOLANGO",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 5,
+      "sma": 3,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18349023,
+      "sd": 108405666,
+      "smp": 76171740,
+      "sma": 56051694,
+      "total": 258978123
+    }
+  },
+  {
+    "kode_pro": "75",
+    "kode_kab": "7504",
+    "nama_kabupaten": "POHUWATO",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 5,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15785373,
+      "sd": 138224280,
+      "smp": 88426320,
+      "sma": 62038792,
+      "total": 304474765
+    }
+  },
+  {
+    "kode_pro": "75",
+    "kode_kab": "7505",
+    "nama_kabupaten": "GORONTALO UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 3,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18891145,
+      "sd": 167854491,
+      "smp": 47871051,
+      "sma": 59035588,
+      "total": 293652275
+    }
+  },
+  {
+    "kode_pro": "75",
+    "kode_kab": "7571",
+    "nama_kabupaten": "KOTA GORONTALO",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 6,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 35075498,
+      "sd": 100088422,
+      "smp": 93522702,
+      "sma": 94902335,
+      "total": 323588957
+    }
+  },
+  {
+    "kode_pro": "76",
+    "kode_kab": "7601",
+    "nama_kabupaten": "PASANGKAYU",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 5,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28908606,
+      "sd": 140951304,
+      "smp": 92375100,
+      "sma": 90437745,
+      "total": 352672755
+    }
+  },
+  {
+    "kode_pro": "76",
+    "kode_kab": "7602",
+    "nama_kabupaten": "MAMUJU",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 6,
+      "sma": 2,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 30404080,
+      "sd": 150081640,
+      "smp": 96987804,
+      "sma": 30735990,
+      "total": 308209514
+    }
+  },
+  {
+    "kode_pro": "76",
+    "kode_kab": "7603",
+    "nama_kabupaten": "MAMASA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 4,
+      "sma": 5,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34701376,
+      "sd": 165587420,
+      "smp": 73128544,
+      "sma": 86620300,
+      "total": 360037640
+    }
+  },
+  {
+    "kode_pro": "76",
+    "kode_kab": "7604",
+    "nama_kabupaten": "POLEWALI MANDAR",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 4,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32857810,
+      "sd": 166868640,
+      "smp": 69288092,
+      "sma": 105585006,
+      "total": 374599548
+    }
+  },
+  {
+    "kode_pro": "76",
+    "kode_kab": "7605",
+    "nama_kabupaten": "MAJENE",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 6,
+      "sma": 5,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 56101857,
+      "sd": 129930768,
+      "smp": 89172978,
+      "sma": 90110220,
+      "total": 365315823
+    }
+  },
+  {
+    "kode_pro": "76",
+    "kode_kab": "7606",
+    "nama_kabupaten": "MAMUJU TENGAH",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 6,
+      "sma": 5,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28032100,
+      "sd": 125472848,
+      "smp": 84419310,
+      "sma": 81256915,
+      "total": 319181173
+    }
+  },
+  {
+    "kode_pro": "81",
+    "kode_kab": "8101",
+    "nama_kabupaten": "MALUKU TENGAH",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 4,
+      "sma": 6,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14515547,
+      "sd": 149006889,
+      "smp": 57608648,
+      "sma": 94895034,
+      "total": 316026118
+    }
+  },
+  {
+    "kode_pro": "81",
+    "kode_kab": "8102",
+    "nama_kabupaten": "MALUKU TENGGARA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 6,
+      "sma": 2,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14890247,
+      "sd": 107593038,
+      "smp": 87356568,
+      "sma": 29323654,
+      "total": 239163507
+    }
+  },
+  {
+    "kode_pro": "81",
+    "kode_kab": "8103",
+    "nama_kabupaten": "KEPULAUAN TANIMBAR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 4,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18031835,
+      "sd": 128252268,
+      "smp": 56372088,
+      "sma": 31159016,
+      "total": 233815207
+    }
+  },
+  {
+    "kode_pro": "81",
+    "kode_kab": "8104",
+    "nama_kabupaten": "BURU",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 3,
+      "sma": 4,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 54299886,
+      "sd": 152104266,
+      "smp": 43235031,
+      "sma": 74783788,
+      "total": 324422971
+    }
+  },
+  {
+    "kode_pro": "81",
+    "kode_kab": "8105",
+    "nama_kabupaten": "SERAM BAGIAN TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 6,
+      "sma": 5,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14997559,
+      "sd": 143461430,
+      "smp": 84784104,
+      "sma": 86599065,
+      "total": 329842158
+    }
+  },
+  {
+    "kode_pro": "81",
+    "kode_kab": "8106",
+    "nama_kabupaten": "SERAM BAGIAN BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 3,
+      "sma": 2,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 42682260,
+      "sd": 112862592,
+      "smp": 54532929,
+      "sma": 37236346,
+      "total": 247314127
+    }
+  },
+  {
+    "kode_pro": "81",
+    "kode_kab": "8107",
+    "nama_kabupaten": "KEPULAUAN ARU",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 3,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 33379556,
+      "sd": 189711800,
+      "smp": 44413224,
+      "sma": 49934865,
+      "total": 317439445
+    }
+  },
+  {
+    "kode_pro": "81",
+    "kode_kab": "8108",
+    "nama_kabupaten": "MALUKU BARAT DAYA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 4,
+      "sma": 6,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32746072,
+      "sd": 116223688,
+      "smp": 56345368,
+      "sma": 109763028,
+      "total": 315078156
+    }
+  },
+  {
+    "kode_pro": "81",
+    "kode_kab": "8109",
+    "nama_kabupaten": "BURU SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 6,
+      "sma": 3,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16350763,
+      "sd": 140007900,
+      "smp": 103985646,
+      "sma": 45548790,
+      "total": 305893099
+    }
+  },
+  {
+    "kode_pro": "81",
+    "kode_kab": "8171",
+    "nama_kabupaten": "KOTA AMBON",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 6,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18665198,
+      "sd": 101123253,
+      "smp": 110758524,
+      "sma": 56277384,
+      "total": 286824359
+    }
+  },
+  {
+    "kode_pro": "81",
+    "kode_kab": "8172",
+    "nama_kabupaten": "KOTA TUAL",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 3,
+      "sma": 4,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34328574,
+      "sd": 106140230,
+      "smp": 49471698,
+      "sma": 59224208,
+      "total": 249164710
+    }
+  },
+  {
+    "kode_pro": "82",
+    "kode_kab": "8201",
+    "nama_kabupaten": "HALMAHERA BARAT",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 3,
+      "sma": 6,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29905272,
+      "sd": 112670936,
+      "smp": 48379827,
+      "sma": 110417784,
+      "total": 301373819
+    }
+  },
+  {
+    "kode_pro": "82",
+    "kode_kab": "8202",
+    "nama_kabupaten": "HALMAHERA TENGAH",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 3,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 48759063,
+      "sd": 146522576,
+      "smp": 52862766,
+      "sma": 53695497,
+      "total": 301839902
+    }
+  },
+  {
+    "kode_pro": "82",
+    "kode_kab": "8203",
+    "nama_kabupaten": "HALMAHERA UTARA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 6,
+      "sma": 5,
+      "total": 19
+    },
+    "anggaran_revitalisasi": {
+      "paud": 44853096,
+      "sd": 172984280,
+      "smp": 110047008,
+      "sma": 70871135,
+      "total": 398755519
+    }
+  },
+  {
+    "kode_pro": "82",
+    "kode_kab": "8204",
+    "nama_kabupaten": "HALMAHERA SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 4,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34548254,
+      "sd": 147007224,
+      "smp": 61855368,
+      "sma": 88019352,
+      "total": 331430198
+    }
+  },
+  {
+    "kode_pro": "82",
+    "kode_kab": "8205",
+    "nama_kabupaten": "KEPULAUAN SULA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 3,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 56173152,
+      "sd": 104125763,
+      "smp": 50090265,
+      "sma": 71667652,
+      "total": 282056832
+    }
+  },
+  {
+    "kode_pro": "82",
+    "kode_kab": "8206",
+    "nama_kabupaten": "HALMAHERA TIMUR",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 6,
+      "sma": 5,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 43310862,
+      "sd": 99074458,
+      "smp": 108154680,
+      "sma": 70949815,
+      "total": 321489815
+    }
+  },
+  {
+    "kode_pro": "82",
+    "kode_kab": "8207",
+    "nama_kabupaten": "PULAU MOROTAI",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 5,
+      "sma": 5,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 17989930,
+      "sd": 100368254,
+      "smp": 77987510,
+      "sma": 86804975,
+      "total": 283150669
+    }
+  },
+  {
+    "kode_pro": "82",
+    "kode_kab": "8208",
+    "nama_kabupaten": "PULAU TALIABU",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 6,
+      "sma": 5,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 43186191,
+      "sd": 123484382,
+      "smp": 88432086,
+      "sma": 76869250,
+      "total": 331971909
+    }
+  },
+  {
+    "kode_pro": "82",
+    "kode_kab": "8271",
+    "nama_kabupaten": "KOTA TERNATE",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 6,
+      "sma": 4,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32538752,
+      "sd": 124727304,
+      "smp": 95189556,
+      "sma": 67777508,
+      "total": 320233120
+    }
+  },
+  {
+    "kode_pro": "82",
+    "kode_kab": "8272",
+    "nama_kabupaten": "KOTA TIDORE KEPULAUAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 3,
+      "sma": 4,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29491200,
+      "sd": 157527530,
+      "smp": 49685250,
+      "sma": 72441664,
+      "total": 309145644
+    }
+  },
+  {
+    "kode_pro": "91",
+    "kode_kab": "9103",
+    "nama_kabupaten": "JAYAPURA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 6,
+      "sma": 4,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 29619776,
+      "sd": 119126840,
+      "smp": 108689628,
+      "sma": 58355452,
+      "total": 315791696
+    }
+  },
+  {
+    "kode_pro": "91",
+    "kode_kab": "9105",
+    "nama_kabupaten": "KEPULAUAN YAPEN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 8,
+      "smp": 5,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32365008,
+      "sd": 113926232,
+      "smp": 90339680,
+      "sma": 48439737,
+      "total": 285070657
+    }
+  },
+  {
+    "kode_pro": "91",
+    "kode_kab": "9106",
+    "nama_kabupaten": "BIAK NUMFOR",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 6,
+      "sma": 5,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 45642936,
+      "sd": 109806594,
+      "smp": 106020744,
+      "sma": 74272205,
+      "total": 335742479
+    }
+  },
+  {
+    "kode_pro": "91",
+    "kode_kab": "9110",
+    "nama_kabupaten": "SARMI",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 6,
+      "sma": 5,
+      "total": 18
+    },
+    "anggaran_revitalisasi": {
+      "paud": 43144638,
+      "sd": 137514465,
+      "smp": 101157078,
+      "sma": 87689655,
+      "total": 369505836
+    }
+  },
+  {
+    "kode_pro": "91",
+    "kode_kab": "9111",
+    "nama_kabupaten": "KEEROM",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 5,
+      "sma": 6,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 44315913,
+      "sd": 113475383,
+      "smp": 81969200,
+      "sma": 94522872,
+      "total": 334283368
+    }
+  },
+  {
+    "kode_pro": "91",
+    "kode_kab": "9115",
+    "nama_kabupaten": "WAROPEN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 4,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 49463751,
+      "sd": 124950035,
+      "smp": 62298480,
+      "sma": 49997766,
+      "total": 286710032
+    }
+  },
+  {
+    "kode_pro": "91",
+    "kode_kab": "9119",
+    "nama_kabupaten": "SUPIORI",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 3,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15501909,
+      "sd": 162775830,
+      "smp": 42731811,
+      "sma": 88529615,
+      "total": 309539165
+    }
+  },
+  {
+    "kode_pro": "91",
+    "kode_kab": "9120",
+    "nama_kabupaten": "MAMBERAMO RAYA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 10,
+      "smp": 5,
+      "sma": 4,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32262688,
+      "sd": 144704980,
+      "smp": 82443625,
+      "sma": 58778832,
+      "total": 318190125
+    }
+  },
+  {
+    "kode_pro": "91",
+    "kode_kab": "9171",
+    "nama_kabupaten": "KOTA JAYAPURA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 4,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16286336,
+      "sd": 143644815,
+      "smp": 62882396,
+      "sma": 66896188,
+      "total": 289709735
+    }
+  },
+  {
+    "kode_pro": "92",
+    "kode_kab": "9202",
+    "nama_kabupaten": "MANOKWARI",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 9,
+      "smp": 5,
+      "sma": 3,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 43199163,
+      "sd": 132526836,
+      "smp": 84667050,
+      "sma": 54026190,
+      "total": 314419239
+    }
+  },
+  {
+    "kode_pro": "92",
+    "kode_kab": "9203",
+    "nama_kabupaten": "FAK FAK",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 6,
+      "smp": 5,
+      "sma": 3,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16807322,
+      "sd": 106640496,
+      "smp": 83107390,
+      "sma": 46200615,
+      "total": 252755823
+    }
+  },
+  {
+    "kode_pro": "92",
+    "kode_kab": "9206",
+    "nama_kabupaten": "TELUK BINTUNI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 4,
+      "sma": 3,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32338842,
+      "sd": 111755124,
+      "smp": 58799836,
+      "sma": 42143274,
+      "total": 245037076
+    }
+  },
+  {
+    "kode_pro": "92",
+    "kode_kab": "9207",
+    "nama_kabupaten": "TELUK WONDAMA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 6,
+      "sma": 6,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15737405,
+      "sd": 187409250,
+      "smp": 102774996,
+      "sma": 97918386,
+      "total": 403840037
+    }
+  },
+  {
+    "kode_pro": "92",
+    "kode_kab": "9208",
+    "nama_kabupaten": "KAIMANA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 5,
+      "sma": 2,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 44035776,
+      "sd": 119479073,
+      "smp": 85283605,
+      "sma": 29008534,
+      "total": 277806988
+    }
+  },
+  {
+    "kode_pro": "92",
+    "kode_kab": "9211",
+    "nama_kabupaten": "MANOKWARI SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 6,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32901386,
+      "sd": 108283110,
+      "smp": 99750702,
+      "sma": 52157694,
+      "total": 293092892
+    }
+  },
+  {
+    "kode_pro": "92",
+    "kode_kab": "9212",
+    "nama_kabupaten": "PEGUNUNGAN ARFAK",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 9,
+      "smp": 3,
+      "sma": 5,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15882130,
+      "sd": 148350042,
+      "smp": 53586975,
+      "sma": 80788270,
+      "total": 298607417
+    }
+  },
+  {
+    "kode_pro": "93",
+    "kode_kab": "9301",
+    "nama_kabupaten": "MERAUKE",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 4,
+      "sma": 2,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 28753720,
+      "sd": 91464708,
+      "smp": 74908772,
+      "sma": 32930016,
+      "total": 228057216
+    }
+  },
+  {
+    "kode_pro": "93",
+    "kode_kab": "9302",
+    "nama_kabupaten": "BOVEN DIGOEL",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 8,
+      "smp": 3,
+      "sma": 3,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16723343,
+      "sd": 148236672,
+      "smp": 51345849,
+      "sma": 48122484,
+      "total": 264428348
+    }
+  },
+  {
+    "kode_pro": "93",
+    "kode_kab": "9303",
+    "nama_kabupaten": "MAPPI",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 6,
+      "sma": 2,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15628832,
+      "sd": 116567955,
+      "smp": 110668710,
+      "sma": 32760742,
+      "total": 275626239
+    }
+  },
+  {
+    "kode_pro": "93",
+    "kode_kab": "9304",
+    "nama_kabupaten": "ASMAT",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 4,
+      "sma": 3,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 18414558,
+      "sd": 180738460,
+      "smp": 66687652,
+      "sma": 42910425,
+      "total": 308751095
+    }
+  },
+  {
+    "kode_pro": "94",
+    "kode_kab": "9401",
+    "nama_kabupaten": "NABIRE",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 6,
+      "smp": 6,
+      "sma": 3,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 30402690,
+      "sd": 96680712,
+      "smp": 98159202,
+      "sma": 56340717,
+      "total": 281583321
+    }
+  },
+  {
+    "kode_pro": "94",
+    "kode_kab": "9402",
+    "nama_kabupaten": "PUNCAK JAYA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 3,
+      "sma": 2,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 56325012,
+      "sd": 112836198,
+      "smp": 42468072,
+      "sma": 34707292,
+      "total": 246336574
+    }
+  },
+  {
+    "kode_pro": "94",
+    "kode_kab": "9403",
+    "nama_kabupaten": "PANIAI",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 4,
+      "sma": 6,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 49750140,
+      "sd": 132823432,
+      "smp": 65511524,
+      "sma": 101210928,
+      "total": 349296024
+    }
+  },
+  {
+    "kode_pro": "94",
+    "kode_kab": "9404",
+    "nama_kabupaten": "MIMIKA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 6,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 52485378,
+      "sd": 100341955,
+      "smp": 107534796,
+      "sma": 90481044,
+      "total": 350843173
+    }
+  },
+  {
+    "kode_pro": "94",
+    "kode_kab": "9405",
+    "nama_kabupaten": "PUNCAK",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 5,
+      "sma": 4,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15255250,
+      "sd": 99733578,
+      "smp": 85497480,
+      "sma": 75247536,
+      "total": 275733844
+    }
+  },
+  {
+    "kode_pro": "94",
+    "kode_kab": "9406",
+    "nama_kabupaten": "DOGIYAI",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 5,
+      "sma": 3,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 52578030,
+      "sd": 112034968,
+      "smp": 72669705,
+      "sma": 53873172,
+      "total": 291155875
+    }
+  },
+  {
+    "kode_pro": "94",
+    "kode_kab": "9407",
+    "nama_kabupaten": "INTAN JAYA",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 5,
+      "sma": 3,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 15397003,
+      "sd": 128024211,
+      "smp": 85896195,
+      "sma": 45272940,
+      "total": 274590349
+    }
+  },
+  {
+    "kode_pro": "94",
+    "kode_kab": "9408",
+    "nama_kabupaten": "DEIYAI",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 5,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32627038,
+      "sd": 100351923,
+      "smp": 88448350,
+      "sma": 66975808,
+      "total": 288403119
+    }
+  },
+  {
+    "kode_pro": "95",
+    "kode_kab": "9501",
+    "nama_kabupaten": "JAYAWIJAYA",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 3,
+      "sma": 2,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 37878442,
+      "sd": 101753120,
+      "smp": 42173937,
+      "sma": 30741706,
+      "total": 212547205
+    }
+  },
+  {
+    "kode_pro": "95",
+    "kode_kab": "9502",
+    "nama_kabupaten": "KAB PEGUNUNGAN BINTANG",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 5,
+      "sma": 2,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 49878108,
+      "sd": 127119552,
+      "smp": 94917545,
+      "sma": 32587990,
+      "total": 304503195
+    }
+  },
+  {
+    "kode_pro": "95",
+    "kode_kab": "9503",
+    "nama_kabupaten": "YAHUKIMO",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 7,
+      "smp": 3,
+      "sma": 2,
+      "total": 13
+    },
+    "anggaran_revitalisasi": {
+      "paud": 53943333,
+      "sd": 119564347,
+      "smp": 56261109,
+      "sma": 32756124,
+      "total": 262524913
+    }
+  },
+  {
+    "kode_pro": "95",
+    "kode_kab": "9504",
+    "nama_kabupaten": "TOLIKARA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 3,
+      "sma": 4,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 50050209,
+      "sd": 143625104,
+      "smp": 42334182,
+      "sma": 66976020,
+      "total": 302985515
+    }
+  },
+  {
+    "kode_pro": "95",
+    "kode_kab": "9505",
+    "nama_kabupaten": "MAMBERAMO TENGAH",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 10,
+      "smp": 6,
+      "sma": 3,
+      "total": 17
+    },
+    "anggaran_revitalisasi": {
+      "paud": 14887602,
+      "sd": 159838530,
+      "smp": 111437136,
+      "sma": 48439749,
+      "total": 334603017
+    }
+  },
+  {
+    "kode_pro": "95",
+    "kode_kab": "9506",
+    "nama_kabupaten": "YALIMO",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 6,
+      "sma": 5,
+      "total": 19
+    },
+    "anggaran_revitalisasi": {
+      "paud": 45832653,
+      "sd": 180180160,
+      "smp": 109720806,
+      "sma": 73664735,
+      "total": 409398354
+    }
+  },
+  {
+    "kode_pro": "95",
+    "kode_kab": "9507",
+    "nama_kabupaten": "LANNY JAYA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 6,
+      "smp": 5,
+      "sma": 5,
+      "total": 14
+    },
+    "anggaran_revitalisasi": {
+      "paud": 55768356,
+      "sd": 111105828,
+      "smp": 73094455,
+      "sma": 80979370,
+      "total": 320948009
+    }
+  },
+  {
+    "kode_pro": "95",
+    "kode_kab": "9508",
+    "nama_kabupaten": "NDUGA",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 8,
+      "smp": 4,
+      "sma": 2,
+      "total": 15
+    },
+    "anggaran_revitalisasi": {
+      "paud": 53944908,
+      "sd": 118867120,
+      "smp": 71188828,
+      "sma": 28544002,
+      "total": 272544858
+    }
+  },
+  {
+    "kode_pro": "96",
+    "kode_kab": "9601",
+    "nama_kabupaten": "SORONG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 3,
+      "sma": 3,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 36541990,
+      "sd": 100142035,
+      "smp": 52175766,
+      "sma": 43302954,
+      "total": 232162745
+    }
+  },
+  {
+    "kode_pro": "96",
+    "kode_kab": "9602",
+    "nama_kabupaten": "SORONG SELATAN",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 6,
+      "sma": 2,
+      "total": 19
+    },
+    "anggaran_revitalisasi": {
+      "paud": 49218516,
+      "sd": 164635170,
+      "smp": 98682684,
+      "sma": 36233642,
+      "total": 348770012
+    }
+  },
+  {
+    "kode_pro": "96",
+    "kode_kab": "9603",
+    "nama_kabupaten": "RAJA AMPAT",
+    "jumlah_revitalisasi": {
+      "paud": 3,
+      "sd": 10,
+      "smp": 3,
+      "sma": 6,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 53366421,
+      "sd": 147389030,
+      "smp": 49042308,
+      "sma": 105475740,
+      "total": 355273499
+    }
+  },
+  {
+    "kode_pro": "96",
+    "kode_kab": "9604",
+    "nama_kabupaten": "TAMBRAUW",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 7,
+      "smp": 3,
+      "sma": 2,
+      "total": 12
+    },
+    "anggaran_revitalisasi": {
+      "paud": 32116326,
+      "sd": 131052026,
+      "smp": 50427399,
+      "sma": 37341090,
+      "total": 250936841
+    }
+  },
+  {
+    "kode_pro": "96",
+    "kode_kab": "9605",
+    "nama_kabupaten": "MAYBRAT",
+    "jumlah_revitalisasi": {
+      "paud": 1,
+      "sd": 7,
+      "smp": 3,
+      "sma": 5,
+      "total": 11
+    },
+    "anggaran_revitalisasi": {
+      "paud": 16329436,
+      "sd": 118752984,
+      "smp": 43267056,
+      "sma": 83491810,
+      "total": 261841286
+    }
+  },
+  {
+    "kode_pro": "96",
+    "kode_kab": "9671",
+    "nama_kabupaten": "KOTA SORONG",
+    "jumlah_revitalisasi": {
+      "paud": 2,
+      "sd": 9,
+      "smp": 5,
+      "sma": 4,
+      "total": 16
+    },
+    "anggaran_revitalisasi": {
+      "paud": 34279558,
+      "sd": 135206712,
+      "smp": 79828895,
+      "sma": 66113132,
+      "total": 315428297
+    }
+  }
+]
