@@ -1,6 +1,6 @@
 import app from './app.js'
 import db from './src/config/db.js'
-const PORT = process.env.PORT || 3001
+const PORT = 3001
 
 db()
 

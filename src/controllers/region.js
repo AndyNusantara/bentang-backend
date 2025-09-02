@@ -42,7 +42,6 @@ export const getProvinsiSummary = async (req, res) => {
 
 		res.status(200).json({ success: true, data })
 	} catch (error) {
-		console.error(error)
 		res.status(500).json({
 			success: false,
 			message: 'Gagal mengambil data summary provinsi dari kabupaten',
@@ -106,7 +105,6 @@ export const getTable = async (req, res) => {
 			data
 		})
 	} catch (error) {
-		console.error(error)
 		res.status(500).json({
 			success: false,
 			status: 'error',
@@ -174,7 +172,6 @@ export const getSummaryByProvinsi = async (req, res) => {
 
 		res.status(200).json({ success: true, data })
 	} catch (error) {
-		console.error(error)
 		res.status(500).json({
 			success: false,
 			message: 'Gagal mengambil data summary provinsi',
@@ -237,7 +234,6 @@ export const getTableByProvinsi = async (req, res) => {
 			data: tableData
 		})
 	} catch (error) {
-		console.error(error)
 		res.status(500).json({
 			success: false,
 			message: 'Gagal mengambil data table provinsi',
